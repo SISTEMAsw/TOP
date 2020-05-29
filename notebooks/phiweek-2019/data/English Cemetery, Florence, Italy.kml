@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>English Cemetery, Florence, Italy</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-99FF99-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-99FF99-3000-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-99FF99-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Neimenovan sloj</name>
+      <Placemark>
+        <name>English Cemetery</name>
+        <styleUrl>#poly-99FF99-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                11.267697,43.777816,0
+                11.267673,43.77776,0
+                11.267673,43.777673,0
+                11.267734,43.777553,0
+                11.267876,43.777348,0
+                11.267978,43.777233,0
+                11.268094,43.777138,0
+                11.268198,43.777071,0
+                11.268383,43.776997,0
+                11.26855,43.777005,0
+                11.268665,43.777057,0
+                11.268735,43.777146,0
+                11.268751,43.777274,0
+                11.268705,43.777415,0
+                11.268593,43.777586,0
+                11.268472,43.777716,0
+                11.268295,43.777861,0
+                11.268153,43.77794,0
+                11.267986,43.777979,0
+                11.267839,43.777952,0
+                11.26775,43.7779,0
+                11.267697,43.777816,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>English Cemetery</name>
+        <description>The Victorian (1827-1877), Swiss-owned so-called ‘English’ Cemetery for foreigners (Protestant, Anglican, Orthodox), now surrounded by traffic, is on a hill with cypress trees, that may be an Etruscan tomb, famously presented in Arnold Boecklin’s ‘Island of the Dead’.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.268483,43.777156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

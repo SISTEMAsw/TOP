@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>The Dobrava cemetery, Maribor, Slovenia</name>
+    <description>The Dobrava cemetery, Maribor, Slovenia</description>
+    <Style id="poly-4186F0-4501-64-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>4.501</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-4186F0-4501-64-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>6.7515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-4501-64">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-4501-64-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-4501-64-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Dobrava Cemetery</name>
+      <Placemark>
+        <name>Dobrava Cemetery</name>
+        <description>The Dobrava cemetery in Maribor, Slovenia</description>
+        <styleUrl>#poly-4186F0-4501-64</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                15.6916308,46.5190823,0
+                15.692414,46.5161218,0
+                15.6977034,46.5168897,0
+                15.6970382,46.5189347,0
+                15.6956112,46.5196877,0
+                15.6916308,46.5190823,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

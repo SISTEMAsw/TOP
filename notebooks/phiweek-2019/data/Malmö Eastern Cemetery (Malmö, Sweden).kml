@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Malmö Eastern Cemetery (Malmö, Sweden)</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-99FF99-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-99FF99-3000-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-99FF99-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Neimenovan sloj</name>
+      <Placemark>
+        <name>Malmö Eastern Cemetery (Malmö, Sweden)</name>
+        <styleUrl>#poly-99FF99-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.038669,55.593164,0
+                13.038926,55.592897,0
+                13.040192,55.590788,0
+                13.047166,55.592218,0
+                13.050535,55.593176,0
+                13.050835,55.595929,0
+                13.0515,55.59668,0
+                13.049569,55.59725,0
+                13.049097,55.596983,0
+                13.048496,55.597177,0
+                13.043132,55.595092,0
+                13.041308,55.594607,0
+                13.038669,55.593164,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Malmö Eastern Cemetery (Malmö, Sweden)</name>
+        <description>The Eastern cemetery in Malmö is a beautifully planned architectural environment. Both landscape and buildings were designed by architect Sigurd Lewerentz (1885-1975).</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            13.044505,55.594037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

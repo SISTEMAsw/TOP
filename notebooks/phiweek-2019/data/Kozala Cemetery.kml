@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="poly-3F5BA9-2601-94-normal">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>2.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5ea95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3F5BA9-2601-94-highlight">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>3.9015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5ea95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3F5BA9-2601-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3F5BA9-2601-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3F5BA9-2601-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Kozala Cemetery</name>
+        <description>Petra Kobeka bb, 51000, Rijeka, Croatia</description>
+        <styleUrl>#poly-3F5BA9-2601-94</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.4385135,45.3359704,0
+                14.4389963,45.3357894,0
+                14.4397688,45.3356159,0
+                14.4417965,45.3343639,0
+                14.4420111,45.3346505,0
+                14.4421935,45.3346354,0
+                14.4423223,45.3347335,0
+                14.4426227,45.3346505,0
+                14.4425154,45.3345676,0
+                14.4427621,45.3342282,0
+                14.4422901,45.3339868,0
+                14.4429123,45.3332326,0
+                14.4435346,45.3330063,0
+                14.4438672,45.333127,0
+                14.4446719,45.3329762,0
+                14.44538,45.3325161,0
+                14.4456589,45.3326443,0
+                14.4456804,45.3328102,0
+                14.4449401,45.3341452,0
+                14.4445753,45.3345676,0
+                14.4440496,45.3348843,0
+                14.4442749,45.3350427,0
+                14.4441569,45.3350955,0
+                14.4438136,45.3350201,0
+                14.4433308,45.3355178,0
+                14.4423866,45.3359628,0
+                14.4421613,45.3358799,0
+                14.4416356,45.336174,0
+                14.4415069,45.3361589,0
+                14.4413352,45.3362947,0
+                14.4410026,45.3362871,0
+                14.4408739,45.3361815,0
+                14.4399512,45.3363173,0
+                14.4398868,45.3364757,0
+                14.4393396,45.3365511,0
+                14.4393289,45.3364002,0
+                14.438653,45.3364455,0
+                14.4385135,45.3359704,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

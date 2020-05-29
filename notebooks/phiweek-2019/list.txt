@@ -1,0 +1,128 @@
+12 Apostel, Berlin.kml
+Abney Cemetery (London, United Kingdom).kml
+Arnos Vale Cemetery (Bristol, United Kingdom).kml
+Assistens Kirkegard (Copenhagen, Denmark).kml
+Bare Cemetery (Sarajevo, Bosnia and Herzegovina).kml
+Bellu Cemetery (Bucharest, Romania).kml
+Bornstedt Cemterey (Potsdam, Germany).kml
+Brompton Cemetery (London, United Kingdom).kml
+Catholic Cemetery Dubovac (Karlovac, Croatia).kml
+Cementerio de los Ingleses (Camariñas, Spain).kml
+Cementerio Municipal de Monturque (Monturque, Spain).kml
+Cementerio Quart de Poblet (Quart de Poblet, Spain).kml
+Cemetery Boninovo.kml
+Cemetery Nuestra Señora de la Salud (Cordoba, Spain).kml
+Cemetery of Agramonte (Porto, Portugal).kml
+Cemetery of Arenys de Mar (Arenys de Mar, Spain).kml
+Cemetery of Bilbao (Bilbao, Spain).kml
+Cemetery of Brussels (Belgium).kml
+Cemetery of La Carriona (Aviles, Spain).kml
+Cemetery of Lyon (Lyon, France).kml
+Cemetery of Montjuïc (Barcelona, Spain).kml
+Cemetery of Mortorino, San Fiorano.kml
+Cemetery of Poblenou (Barcelona, Spain).kml
+Cemetery of Prado do Repouso (Porto, Portugal).kml
+Cemetery of Reus (Reus, Tarragona, Spain).kml
+Cemetery of San Amaro (A Coruña, Spain).kml
+Cemetery of San Francis, Ourense, Spain.kml
+Cemetery of San Prospero (Sassuolo, Italy).kml
+Cemetery of Sant Andreu (Barcelona, Spain).kml
+Cemetery of Sant Gervasi (Barcelona, Spain).kml
+Cemetery of Skiathos.kml
+Cemetery of Vilanova i la Geltru (Vilanova i la Geltru, Spain).kml
+Cemetery San Froilan (Lugo, Spain).kml
+Cemetery Vilafranca del Penedès.kml
+Central Cemetery of Cluj-Napoca (Romania).kml
+Central Cemetery (Vienna, Austria).kml
+Cimitero della Osservanza (Faenza, Italy).kml
+Cimitero Monumentale di Iglesias, Sardegna.kml
+Cimitero monumentale di Lecco.kml
+City Cemetery of Zadar (Zadar, Croatia).kml
+Dardistown Cemetery, Dublin, Ireland.kml
+Drapano Cemetery  Argostoli, Kefallonia Island.kml
+Eastern Cemetery (Innsbruck, Austria).kml
+Eastern Cemetery (Rennes, France).kml
+Ekshärad Cemetery (Ekshärad, Sweden).kml
+English Cemetery, Florence, Italy.kml
+English Cemetery.kml
+Flaybrick Memorial Gardens.kml
+Ford Park Cemetery (Plymouth, United Kingdom).kml
+General Cemetery of Valencia (Valencia, Spain).kml
+Glasnevin Cemetery.kml
+Goldenbridge Cemetery, Dublin, Ireland.kml
+Gothenburg Eastern Cemetery (Gothenburg, Sweeden).kml
+Highgate Cemetery (London, United Kingdom).kml
+Historical Cemeteries of Poggioreale, Napoli, Italy.kml
+Historic Cemeteries in Gent (Gent, Belgium).kml
+Igualada Cemetery, Igualada, Spain.kml
+Jönköping cemetery  (Jönköping, Sweden).kml
+Kensal Green Cemetery (London, United Kingdom).kml
+Koprivnica Cemetery.kml
+Kozala Cemetery.kml
+La Cigna Cemetery (Livorno, Italy).kml
+Laeken Cemetery (Brussels, Belgium).kml
+Lister Lane Cemetery (Halifax, United Kingdom).kml
+Malmö Eastern Cemetery (Malmö, Sweden).kml
+Metsakalmistu Cemetery (Tallinn, Estiona).kml
+Mjösund cemetery in Njurunda (Sundsvall, Sweeden).kml
+Modernist Cemetery of Lloret de Mar (Lloret de Mar Costa Brava, Spain).kml
+Monumental Cemetery (Bologna, Italy).kml
+Monumental Cemetery Mirogoj (Zagreb, Croatia).kml
+Monumental Cemetery of Bonaria (Cagliari, Italy).kml
+Monumental Cemetery of Messina.kml
+Monumental Cemetery of Milano, Italy.kml
+Monumental Cemetery of Verona (Italy).kml
+Monumentale Cemetery in Trento, Italy.kml
+Moscowa Cemetery & Crematorium (Arnhem, Netherlands).kml
+Municipal Cemetery of Ciriego (Santander, Spain).kml
+Municipal Cemetery of Granada (Granada, Spain).kml
+Municipal Cemetery of the Capuchins.kml
+Newlands Cross, Dublin, Ireland.kml
+Northern Cemetery (Rennes, France).kml
+Nunhead Cemetery (London, United Kingdom).kml
+Ohlsdorf Cemetery, Hamburg.kml
+Old St. Matthews Cemetery (Berlin, Germany).kml
+Our Lady of Almudena Cemetery (Madrid, Spain).kml
+Palmerstown Cemetery, Dublin, Ireland.kml
+Piratello Cemetery, Imola, Italy.kml
+Pobrežje Cemetery (Maribor, Slovenia).kml
+Polloe Cemetery (San Sebastian, Spain).kml
+Raadi Cemetery, Estonia.kml
+Rasos Cemetary (Lithuania).kml
+San Cataldo Cemetery in Modena, Italy.kml
+San Michele Cemetery (Venice, Italy).kml
+San Sebastià Cemetery (Sitges, Spain).kml
+Santa Mariña Cemetery (Cambados, Spain).kml
+Sant Antoni Abat or Cantagallet Cemetery (Alcoy, Spain).kml
+Schoonselhof Cemetery (Antwerp, Belgium).kml
+Siselinna Cemetery (Tallinn, Estonia).kml
+Şişli Greek Orthodox Cemetery (Istanbul, Turkey).kml
+Skogskyrkogården (Stockholm, Sweden).kml
+Smolenskoye Cemetery (St. Petersburg, Russia).kml
+Southampton Old Cemetery (Southampton, United Kingdom).kml
+Staglieno Cemetery (Genova, Italy).kml
+St. Ana, Osijek.kml
+Strandkyrkogården (Stockholm, Sweden).kml
+Suburban and Jewish Cemeteries of Reggio Emilia.kml
+The Cemetery of Athenes.kml
+The Cemetery of Montmartre (Paris, France).kml
+The Cemetery of Montparnasse (Paris, France).kml
+The Cemetery of Père-Lachaise (Paris, France).kml
+The Dobrava cemetery, Maribor, Slovenia.kml
+The English Cemetry (Malaga, Spain).kml
+The main cemetery of Mainz (Mainz, Germany).kml
+The Maritime Cemetery of the Island of Capri.kml
+The New Cemetery of Belgrade (Belgrade, Serbia).kml
+The Non-Catholic Cemetery (Rome, Italy).kml
+The Northern Cemetery (Solna, Sweden).kml
+The old Cemetery of Podgorze - Cmentarz wojskowy (Krakow, Poland).kml
+The Old South Cemetery (Munich, Germany).kml
+The Parisian Cemetery of Thiais (Paris, France).kml
+The Park Cemetery (Clamart, France).kml
+The Stahnsdorf South-Western Cemetery (Stahnsdorf, Germany).kml
+Varaždin Cemetery (Varaždin, Croatia).kml
+Verano Monumental Cemetery, Rome, Italy.kml
+Vor Frelsers Cemetery.kml
+Westerveld Cemetery & Crematorium (Driehuis, Netherlands).kml
+West Norwood Cemetery (London, United Kingdom).kml
+Zale Cemetery (Ljubljana, Slovenia).kml

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Vår Frelsers Cemetery</name>
+    <description>Vår Frelsers Cemetery is a romantic park in Oslo (Norway) where Munch and Ibsen rest in peace.</description>
+    <Style id="poly-3F5BA9-3001-130-normal">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>3.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>82a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3F5BA9-3001-130-highlight">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>4.5015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>82a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3F5BA9-3001-130">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3F5BA9-3001-130-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3F5BA9-3001-130-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Vår Frelsers Cemetery</name>
+        <description>Akersbakken 32, 0172 Oslo kommune (Norway)</description>
+        <styleUrl>#poly-3F5BA9-3001-130</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.7484698,59.9251193,0
+                10.7451224,59.9232482,0
+                10.7410884,59.9223342,0
+                10.7438564,59.9193767,0
+                10.7461524,59.9198391,0
+                10.7467318,59.9209253,0
+                10.7465386,59.9233665,0
+                10.747869,59.9235171,0
+                10.7502508,59.9241408,0
+                10.7484698,59.9251193,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

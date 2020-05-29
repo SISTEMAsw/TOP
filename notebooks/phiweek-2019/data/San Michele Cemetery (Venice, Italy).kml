@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>San Michele Cemetery (Venice, Italy)</name>
+    <description/>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-99FF99-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-99FF99-3000-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-99FF99-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Neimenovan sloj</name>
+      <Placemark>
+        <name>San Michele Cemetery</name>
+        <styleUrl>#poly-99FF99-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                12.343329,45.446358,0
+                12.345947,45.444732,0
+                12.34629,45.444958,0
+                12.346913,45.445033,0
+                12.347685,45.444521,0
+                12.350947,45.447231,0
+                12.347685,45.449203,0
+                12.346827,45.449399,0
+                12.343329,45.446358,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>San Michele Cemetery</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.347088,45.446629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Rasos Cemetary</name>
+      <Placemark>
+        <name>Rasos Cemetary I</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                25.3009601,54.6706113,0
+                25.3014322,54.6700033,0
+                25.3016253,54.6698357,0
+                25.302387,54.6695193,0
+                25.3026231,54.6692898,0
+                25.3038569,54.6676021,0
+                25.304683,54.666963,0
+                25.3052838,54.6667024,0
+                25.3051551,54.6673229,0
+                25.3054126,54.6689671,0
+                25.3053267,54.6691595,0
+                25.3048117,54.6708532,0
+                25.3016789,54.6707354,0
+                25.3009601,54.6706113,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Rasos Cemetary II</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                25.3055735,54.6692153,0
+                25.3056593,54.6689857,0
+                25.3054018,54.6672857,0
+                25.3054555,54.666721,0
+                25.3067966,54.6665287,0
+                25.3076549,54.6675152,0
+                25.308878,54.6683963,0
+                25.3091033,54.6686197,0
+                25.3092964,54.6689423,0
+                25.3063996,54.6692401,0
+                25.3057988,54.6692401,0
+                25.3055735,54.6692153,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

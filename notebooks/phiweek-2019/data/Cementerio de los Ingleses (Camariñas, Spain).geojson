@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.170151,
+                            43.186169,
+                            0
+                        ],
+                        [
+                            -9.170408,
+                            43.185841,
+                            0
+                        ],
+                        [
+                            -9.170065,
+                            43.185606,
+                            0
+                        ],
+                        [
+                            -9.169679,
+                            43.185716,
+                            0
+                        ],
+                        [
+                            -9.169722,
+                            43.18595,
+                            0
+                        ],
+                        [
+                            -9.170151,
+                            43.186169,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cementerio de los Ingleses (Camariñas, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.169979,
+                    43.185904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cementerio de los Ingleses (Camariñas, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "La costa de Camariñas es un lugar marcado a lo largo de los años por los más de 20 naufragios que tuvieron lugar en sus aguas."
+            }
+        }
+    ]
+}

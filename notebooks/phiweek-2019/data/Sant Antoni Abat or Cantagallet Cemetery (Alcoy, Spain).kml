@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sant Antoni Abat or Cantagallet Cemetery (Alcoy, Spain)</name>
+    <description/>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-99FF99-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-99FF99-3000-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-99FF99-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-99FF99-3000-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Neimenovan sloj</name>
+      <Placemark>
+        <name>Sant Antoni Abat or Cantagallet Cemetery (Alcoy, Spain)</name>
+        <styleUrl>#poly-99FF99-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -0.476328,38.682788,0
+                -0.476983,38.682084,0
+                -0.476682,38.681733,0
+                -0.475695,38.681197,0
+                -0.475835,38.680895,0
+                -0.473689,38.679714,0
+                -0.47327,38.680409,0
+                -0.472906,38.681213,0
+                -0.474794,38.682235,0
+                -0.475717,38.682704,0
+                -0.475867,38.682553,0
+                -0.476328,38.682788,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Sant Antoni Abat or Cantagallet Cemetery (Alcoy, Spain)</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.474612,38.681272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

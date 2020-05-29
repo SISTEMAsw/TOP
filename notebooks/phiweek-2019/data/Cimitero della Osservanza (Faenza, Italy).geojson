@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.872294,
+                            44.280911,
+                            0
+                        ],
+                        [
+                            11.869955,
+                            44.280113,
+                            0
+                        ],
+                        [
+                            11.871779,
+                            44.277578,
+                            0
+                        ],
+                        [
+                            11.872294,
+                            44.27787,
+                            0
+                        ],
+                        [
+                            11.872337,
+                            44.278192,
+                            0
+                        ],
+                        [
+                            11.872079,
+                            44.278561,
+                            0
+                        ],
+                        [
+                            11.872444,
+                            44.279252,
+                            0
+                        ],
+                        [
+                            11.872959,
+                            44.279606,
+                            0
+                        ],
+                        [
+                            11.873174,
+                            44.279682,
+                            0
+                        ],
+                        [
+                            11.872294,
+                            44.280911,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cimitero dell’Osservanza (Faenza, Italy)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.871672,
+                    44.279698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cimitero dell’Osservanza (Faenza, Italy)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Faenza Cemetery  was established in 1816  in the original  15th century Franciscan  monastery of the Osservanza, which  already had  two cloisters."
+            }
+        }
+    ]
+}

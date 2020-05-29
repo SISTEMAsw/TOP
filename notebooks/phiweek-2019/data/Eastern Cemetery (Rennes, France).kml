@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Eastern Cemetery (Rennes, France)</name>
+    <description>The Eastern Cemetery (“Cimetière de l’Est”) was created in 1887 and it is the largest cemetery in the city of Rennes.</description>
+    <Style id="poly-4186F0-3601-73-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>3.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>49f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-4186F0-3601-73-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>5.4015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>49f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-3601-73">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-3601-73-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-3601-73-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Eastern Cemetery (Rennes, France)</name>
+        <description>Place du Souvenir Français, 35000 Rennes, France</description>
+        <styleUrl>#poly-4186F0-3601-73</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -1.649065,48.104501,0
+                -1.6495156,48.1018071,0
+                -1.6445911,48.1006751,0
+                -1.6437864,48.10089,0
+                -1.6436148,48.101019,0
+                -1.644237,48.1049166,0
+                -1.6463077,48.1049954,0
+                -1.6478419,48.1048449,0
+                -1.6486144,48.1046801,0
+                -1.649065,48.104501,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

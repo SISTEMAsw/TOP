@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cemetery of Brussels (Belgium)</name>
+    <description><![CDATA[Avenue du Cimetière de Bruxelles 159<br>1140 Evere (Brussels), Belgium]]></description>
+    <Style id="poly-01579B-2801-133-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>2.801</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>859b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-2801-133-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>4.2015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>859b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-2801-133">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-2801-133-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-2801-133-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Cemetery of Brussels</name>
+      <Placemark>
+        <name>Cemetery of Brussels</name>
+        <description><![CDATA[Avenue du Cimetière de Bruxelles 159<br>1140 Evere (Brussels), Belgium]]></description>
+        <styleUrl>#poly-01579B-2801-133</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                4.4223062,50.8657251,0
+                4.4219522,50.8664767,0
+                4.4191198,50.8692664,0
+                4.4166307,50.8712706,0
+                4.414957,50.8718935,0
+                4.4101397,50.8701263,0
+                4.4123713,50.8677159,0
+                4.4162981,50.8644114,0
+                4.4176499,50.8641,0
+                4.4223062,50.8657251,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

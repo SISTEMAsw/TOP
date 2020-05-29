@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>English Cemetery</name>
+    <description><![CDATA[C/ Juan Diego de Dios Barrero<br>(Carretera de Torreblascopedro s/n)<br>23700 Linares (Jaén)]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-4186F0-1200-76-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cf08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-4186F0-1200-76-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cf08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>English Cemetery</name>
+        <description>C/ Juan Diego de Dios Barrero(Carretera de Torreblascopedro s/n)23700 Linares (Jaén)</description>
+        <styleUrl>#poly-4186F0-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.6396611,38.0828289,0
+                -3.6396289,38.0825629,0
+                -3.6387813,38.0826558,0
+                -3.6388189,38.0829007,0
+                -3.6396611,38.0828289,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>English Cemetery</name>
+        <description>C/ Juan Diego de Dios Barrero(Carretera de Torreblascopedro s/n)23700 Linares (Jaén)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -3.6392963,38.082774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

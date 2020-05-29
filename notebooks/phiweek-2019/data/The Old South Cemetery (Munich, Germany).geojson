@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.5663397,
+                            48.1308522,
+                            0
+                        ],
+                        [
+                            11.5620053,
+                            48.1251448,
+                            0
+                        ],
+                        [
+                            11.5641618,
+                            48.1244358,
+                            0
+                        ],
+                        [
+                            11.5656209,
+                            48.1264338,
+                            0
+                        ],
+                        [
+                            11.566329,
+                            48.1269351,
+                            0
+                        ],
+                        [
+                            11.5670156,
+                            48.1307949,
+                            0
+                        ],
+                        [
+                            11.5663397,
+                            48.1308522,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "The Old South Cemetery (Munich, Germany)",
+                "styleUrl": "#poly-3F5BA9-3201-109-nodesc",
+                "styleHash": "-477d4ec0",
+                "styleMapHash": {
+                    "normal": "#poly-3F5BA9-3201-109-nodesc-normal",
+                    "highlight": "#poly-3F5BA9-3201-109-nodesc-highlight"
+                },
+                "stroke": "#3f5ba9",
+                "stroke-opacity": 1,
+                "stroke-width": 3.201,
+                "fill": "#3f5ba9",
+                "fill-opacity": 0.42745098039215684
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565096,
+                    48.127077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Südlicher Friedhof",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

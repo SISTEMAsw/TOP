@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.807591,
+                            42.512218,
+                            0
+                        ],
+                        [
+                            -8.807822,
+                            42.512127,
+                            0
+                        ],
+                        [
+                            -8.808058,
+                            42.512036,
+                            0
+                        ],
+                        [
+                            -8.807968,
+                            42.511842,
+                            0
+                        ],
+                        [
+                            -8.807737,
+                            42.511771,
+                            0
+                        ],
+                        [
+                            -8.808048,
+                            42.511218,
+                            0
+                        ],
+                        [
+                            -8.807308,
+                            42.511131,
+                            0
+                        ],
+                        [
+                            -8.807163,
+                            42.511198,
+                            0
+                        ],
+                        [
+                            -8.806648,
+                            42.511115,
+                            0
+                        ],
+                        [
+                            -8.806567,
+                            42.511115,
+                            0
+                        ],
+                        [
+                            -8.806626,
+                            42.511324,
+                            0
+                        ],
+                        [
+                            -8.806975,
+                            42.511621,
+                            0
+                        ],
+                        [
+                            -8.807136,
+                            42.511846,
+                            0
+                        ],
+                        [
+                            -8.807211,
+                            42.512009,
+                            0
+                        ],
+                        [
+                            -8.807345,
+                            42.512092,
+                            0
+                        ],
+                        [
+                            -8.807591,
+                            42.512218,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Santa Mariña Cemetery (Cambados, Spain)",
+                "styleUrl": "#poly-33CC00-3000-115",
+                "styleHash": "-4accd8ea",
+                "styleMapHash": {
+                    "normal": "#poly-33CC00-3000-115-normal",
+                    "highlight": "#poly-33CC00-3000-115-highlight"
+                },
+                "description": "A National Monument since 1943 and nowadays home to the world most melancholic cemetery.",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#33cc00",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

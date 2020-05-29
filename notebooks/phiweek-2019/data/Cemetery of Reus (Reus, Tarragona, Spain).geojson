@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.11434,
+                            41.151657,
+                            0
+                        ],
+                        [
+                            1.113897,
+                            41.151257,
+                            0
+                        ],
+                        [
+                            1.11386,
+                            41.150999,
+                            0
+                        ],
+                        [
+                            1.11445,
+                            41.150617,
+                            0
+                        ],
+                        [
+                            1.115115,
+                            41.151245,
+                            0
+                        ],
+                        [
+                            1.114399,
+                            41.151685,
+                            0
+                        ],
+                        [
+                            1.11434,
+                            41.151657,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Reus (Reus, Tarragona, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.114385,
+                    41.151199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Reus (Reus, Tarragona, Spain)",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

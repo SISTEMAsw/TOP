@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>The old Cemetery of Podgorze - Cmentarz wojskowy (Krakow, Poland)</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-009900-3000-115-normal">
+      <LineStyle>
+        <color>ff009900</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73009900</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-009900-3000-115-highlight">
+      <LineStyle>
+        <color>ff009900</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73009900</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-009900-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-009900-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-009900-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Neimenovan sloj</name>
+      <Placemark>
+        <name>The old Cemetery of Podgorze</name>
+        <description><![CDATA[For over a hundred years it was the main necropolis of the Free Royal City of Podgorze (which has become part of Krakow in 1915). It is the oldest municipal cemetery in Krakow.<br><br>More information (http://www.significantcemeteries.org/2011/11/old-cemetery-of-podgorze-cmentarz.html)]]></description>
+        <styleUrl>#poly-009900-3000-115</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.959192,50.042248,0
+                19.95832,50.04154,0
+                19.95891,50.0416,0
+                19.95995,50.04206,0
+                19.959632,50.042248,0
+                19.959192,50.042248,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>The old Cemetery of Podgorze</name>
+        <description><![CDATA[For over a hundred years it was the main necropolis of the Free Royal City of Podgorze (which has become part of Krakow in 1915). It is the oldest municipal cemetery in Krakow.<br><br>More information (http://www.significantcemeteries.org/2011/11/old-cemetery-of-podgorze-cmentarz.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.959331,50.041938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

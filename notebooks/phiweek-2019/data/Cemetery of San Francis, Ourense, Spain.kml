@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cemetery of San Francis, Ourense, Spain</name>
+    <description/>
+    <Style id="poly-87CEAC-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffacce87</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dacce87</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-87CEAC-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffacce87</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dacce87</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-87CEAC-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Cemetery</name>
+      <Placemark>
+        <name>Cemetery area</name>
+        <styleUrl>#poly-87CEAC-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -7.8603691,42.3367342,0
+                -7.8604817,42.3367381,0
+                -7.8605112,42.3365498,0
+                -7.8605488,42.3365557,0
+                -7.8605515,42.3364645,0
+                -7.8605273,42.3364586,0
+                -7.8605434,42.3364169,0
+                -7.8603879,42.336405,0
+                -7.8603798,42.3364447,0
+                -7.8602752,42.3364388,0
+                -7.8603128,42.3362524,0
+                -7.860294,42.3362187,0
+                -7.8602457,42.3361711,0
+                -7.8601304,42.3360779,0
+                -7.8600633,42.3359788,0
+                -7.8600928,42.3358796,0
+                -7.8598139,42.3356734,0
+                -7.8576922,42.3358102,0
+                -7.8574803,42.3358261,0
+                -7.8572121,42.3358836,0
+                -7.856968,42.3363198,0
+                -7.8588858,42.3365161,0
+                -7.8594813,42.3364982,0
+                -7.8601035,42.3366549,0
+                -7.8601116,42.3367143,0
+                -7.8603691,42.3367342,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

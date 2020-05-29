@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.872972,
+                            43.472698,
+                            0
+                        ],
+                        [
+                            -3.871148,
+                            43.472597,
+                            0
+                        ],
+                        [
+                            -3.870558,
+                            43.472146,
+                            0
+                        ],
+                        [
+                            -3.870526,
+                            43.471733,
+                            0
+                        ],
+                        [
+                            -3.869131,
+                            43.471717,
+                            0
+                        ],
+                        [
+                            -3.869078,
+                            43.472013,
+                            0
+                        ],
+                        [
+                            -3.868552,
+                            43.472418,
+                            0
+                        ],
+                        [
+                            -3.866331,
+                            43.472932,
+                            0
+                        ],
+                        [
+                            -3.866149,
+                            43.474193,
+                            0
+                        ],
+                        [
+                            -3.87279,
+                            43.474481,
+                            0
+                        ],
+                        [
+                            -3.872972,
+                            43.472698,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Municipal Cemetery of Ciriego",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.869601,
+                    43.473306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Municipal Cemetery of Ciriego (Santander, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The Municipal Cemetery of Ciriego was projected in 1882 by the municipal architect Casimiro Pérez de la Riva inside of replacing the old Necropolis of San Fernando."
+            }
+        }
+    ]
+}

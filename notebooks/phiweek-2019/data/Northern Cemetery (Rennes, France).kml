@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Northern Cemetery</name>
+    <description><![CDATA[36 avenue Gros Malhon<br>35000 Rennes<br>France<br>]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-3F5BA9-3001-104-normal">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>3.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>68a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3F5BA9-3001-104-highlight">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>4.5015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>68a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3F5BA9-3001-104">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3F5BA9-3001-104-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3F5BA9-3001-104-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Northern Cemetery</name>
+        <description>36 avenue Gros Malhon, 35000 Rennes, France</description>
+        <styleUrl>#poly-3F5BA9-3001-104</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -1.6831076,48.1272932,0
+                -1.6817451,48.1245862,0
+                -1.6814554,48.1245504,0
+                -1.6812623,48.1246005,0
+                -1.6787839,48.1241422,0
+                -1.678741,48.1242138,0
+                -1.676681,48.1246721,0
+                -1.6770244,48.1257965,0
+                -1.6785371,48.1257607,0
+                -1.6787088,48.1258323,0
+                -1.6786337,48.1263909,0
+                -1.6812301,48.1265269,0
+                -1.6822278,48.1268277,0
+                -1.6829896,48.1273219,0
+                -1.6831076,48.1272932,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>The Front Dome</name>
+        <description>In 1829, the city council of Rennes ordered the architect Charles Millardet to build this monument at the entrance of the municipal cemetery. </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -1.681686,48.1247545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adolphe Léofanti’s grave</name>
+        <description>On the grave of sculptor Adolphe Léofanti, a sculpture is set up which was created between 1880 and 1890.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6778183,48.1256389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grave of the shoemakers Bessec</name>
+        <description>The grave of the Bessec family was created near 1920.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6829306,48.1271858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oberthür Chapel</name>
+        <description>The Funerary chapel of printers Oberthür was created in the first half of the 20th century.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6813749,48.1259182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odorico’s grave</name>
+        <description>The grave of the mosaic worker Odorico was created in the first half of the 20th century.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6814178,48.1255279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

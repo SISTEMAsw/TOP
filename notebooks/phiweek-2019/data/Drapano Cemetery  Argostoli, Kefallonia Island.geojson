@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.4996192,
+                            38.1839075,
+                            0
+                        ],
+                        [
+                            20.4990989,
+                            38.1823895,
+                            0
+                        ],
+                        [
+                            20.5001986,
+                            38.1816853,
+                            0
+                        ],
+                        [
+                            20.5003649,
+                            38.1816684,
+                            0
+                        ],
+                        [
+                            20.5007136,
+                            38.1824443,
+                            0
+                        ],
+                        [
+                            20.5003649,
+                            38.1825539,
+                            0
+                        ],
+                        [
+                            20.5007726,
+                            38.1834563,
+                            0
+                        ],
+                        [
+                            20.4996675,
+                            38.1839834,
+                            0
+                        ],
+                        [
+                            20.4996192,
+                            38.1839075,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery area",
+                "styleUrl": "#poly-000000-1200-77-nodesc",
+                "styleHash": "4fc78414",
+                "styleMapHash": {
+                    "normal": "#poly-000000-1200-77-nodesc-normal",
+                    "highlight": "#poly-000000-1200-77-nodesc-highlight"
+                },
+                "stroke": "#000000",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#000000",
+                "fill-opacity": 0.30196078431372547
+            }
+        }
+    ]
+}

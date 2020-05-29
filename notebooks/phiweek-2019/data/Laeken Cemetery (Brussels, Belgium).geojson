@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.350681,
+                            50.879799,
+                            0
+                        ],
+                        [
+                            4.351035,
+                            50.879772,
+                            0
+                        ],
+                        [
+                            4.35126,
+                            50.878845,
+                            0
+                        ],
+                        [
+                            4.352161,
+                            50.878987,
+                            0
+                        ],
+                        [
+                            4.353749,
+                            50.878473,
+                            0
+                        ],
+                        [
+                            4.354888,
+                            50.878053,
+                            0
+                        ],
+                        [
+                            4.355253,
+                            50.878222,
+                            0
+                        ],
+                        [
+                            4.356422,
+                            50.878486,
+                            0
+                        ],
+                        [
+                            4.35538,
+                            50.879664,
+                            0
+                        ],
+                        [
+                            4.354554,
+                            50.880253,
+                            0
+                        ],
+                        [
+                            4.353932,
+                            50.880395,
+                            0
+                        ],
+                        [
+                            4.352698,
+                            50.880429,
+                            0
+                        ],
+                        [
+                            4.352698,
+                            50.880822,
+                            0
+                        ],
+                        [
+                            4.352633,
+                            50.880977,
+                            0
+                        ],
+                        [
+                            4.350724,
+                            50.880564,
+                            0
+                        ],
+                        [
+                            4.350681,
+                            50.879799,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Laeken Cemetery",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35315,
+                    50.879786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Laeken Cemetery (Brussels, Belgium)",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

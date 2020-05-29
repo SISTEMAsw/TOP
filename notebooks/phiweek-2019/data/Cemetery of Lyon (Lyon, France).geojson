@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.809437,
+                            45.764297,
+                            0
+                        ],
+                        [
+                            4.809866,
+                            45.762995,
+                            0
+                        ],
+                        [
+                            4.810156,
+                            45.762531,
+                            0
+                        ],
+                        [
+                            4.811411,
+                            45.761678,
+                            0
+                        ],
+                        [
+                            4.811915,
+                            45.761146,
+                            0
+                        ],
+                        [
+                            4.812441,
+                            45.760428,
+                            0
+                        ],
+                        [
+                            4.815048,
+                            45.761184,
+                            0
+                        ],
+                        [
+                            4.813589,
+                            45.762643,
+                            0
+                        ],
+                        [
+                            4.812859,
+                            45.762785,
+                            0
+                        ],
+                        [
+                            4.813063,
+                            45.763826,
+                            0
+                        ],
+                        [
+                            4.812849,
+                            45.763841,
+                            0
+                        ],
+                        [
+                            4.812537,
+                            45.764237,
+                            0
+                        ],
+                        [
+                            4.811947,
+                            45.764604,
+                            0
+                        ],
+                        [
+                            4.809437,
+                            45.764297,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Lyon (Lyon, France)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812022,
+                    45.762755,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Lyon (Lyon, France)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Planned by the Architect Joseph Gay. This cemetery is known as” 4 winds cemetery” (St Just cemetery former name) because of its geographic location, indeed it is placed on the elevated plateau of the Town (Fourvière area) and overhangs Lyon’s center."
+            }
+        }
+    ]
+}

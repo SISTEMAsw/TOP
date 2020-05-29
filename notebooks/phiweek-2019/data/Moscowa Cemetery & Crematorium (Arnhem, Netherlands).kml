@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Neimenovan sloj</name>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-99FF99-3000-115-normal">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-99FF99-3000-115-highlight">
+      <LineStyle>
+        <color>ff99ff99</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399ff99</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-99FF99-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-99FF99-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-99FF99-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Moscowa Cemetery & Crematorium (Arnhem, Netherlands)]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          5.919721,52.004949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Moscowa Cemetery & Crematorium (Arnhem, Netherlands)]]></name>
+      <description><![CDATA[Moscowa has two chapels. The buildings have the typical pointed form. Entering one of the chapels, you will see towards the end of the walkway an unusual triangular stained glass window comprising some five thousand coloured pieces of glass.<br><br>More about the cemetery... (http://www.significantcemeteries.org/2013/03/moscowa-cemetery-crematorium-arnhem.html)]]></description>
+      <styleUrl>#poly-99FF99-3000-115</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              5.913777,52.006521,0
+              5.917897,52.000524,0
+              5.918584,52.000445,0
+              5.919635,52.000947,0
+              5.922618,52.004355,0
+              5.92515,52.007618,0
+              5.925493,52.009203,0
+              5.922875,52.008965,0
+              5.919249,52.008265,0
+              5.914314,52.007829,0
+              5.913777,52.006521,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.4449515,
+                            41.5502662,
+                            0
+                        ],
+                        [
+                            2.4449462,
+                            41.5498728,
+                            0
+                        ],
+                        [
+                            2.4452573,
+                            41.5490698,
+                            0
+                        ],
+                        [
+                            2.4451339,
+                            41.5490498,
+                            0
+                        ],
+                        [
+                            2.4451447,
+                            41.5486322,
+                            0
+                        ],
+                        [
+                            2.4450266,
+                            41.5486041,
+                            0
+                        ],
+                        [
+                            2.4451339,
+                            41.5481906,
+                            0
+                        ],
+                        [
+                            2.4466896,
+                            41.5484676,
+                            0
+                        ],
+                        [
+                            2.4464911,
+                            41.5487808,
+                            0
+                        ],
+                        [
+                            2.4471295,
+                            41.5491501,
+                            0
+                        ],
+                        [
+                            2.4464804,
+                            41.5498126,
+                            0
+                        ],
+                        [
+                            2.4462014,
+                            41.5498085,
+                            0
+                        ],
+                        [
+                            2.4458259,
+                            41.5496158,
+                            0
+                        ],
+                        [
+                            2.4455953,
+                            41.5501056,
+                            0
+                        ],
+                        [
+                            2.4450159,
+                            41.5502943,
+                            0
+                        ],
+                        [
+                            2.4449515,
+                            41.5502662,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Municipal Cemetery of the Capuchins",
+                "styleUrl": "#poly-4186F0-2201-122",
+                "styleHash": "568adf45",
+                "styleMapHash": {
+                    "normal": "#poly-4186F0-2201-122-normal",
+                    "highlight": "#poly-4186F0-2201-122-highlight"
+                },
+                "description": "Passeig dels Molins, 69, 08304 MATARÓ (Spain)",
+                "stroke": "#4186f0",
+                "stroke-opacity": 1,
+                "stroke-width": 2.201,
+                "fill": "#4186f0",
+                "fill-opacity": 0.47843137254901963
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4456865,
+                    41.5492666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of the Capuchins",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Passeig dels Molins, 69, 08304 MATARÓ (Spain)"
+            }
+        }
+    ]
+}

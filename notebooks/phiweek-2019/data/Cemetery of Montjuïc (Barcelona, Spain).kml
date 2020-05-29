@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cemetery of Montjuïc (Barcelona, Spain)</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-33CC00-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ff00cc33</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7300cc33</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-33CC00-3000-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff00cc33</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7300cc33</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-33CC00-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-33CC00-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-33CC00-3000-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Cemetery of Montjuïc</name>
+        <styleUrl>#poly-33CC00-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                2.154711,41.358901,0
+                2.151815,41.356953,0
+                2.150871,41.356647,0
+                2.149669,41.356437,0
+                2.149776,41.354955,0
+                2.151343,41.353941,0
+                2.151278,41.353345,0
+                2.152501,41.352555,0
+                2.153231,41.352169,0
+                2.155699,41.352765,0
+                2.157866,41.353747,0
+                2.160012,41.355664,0
+                2.158595,41.357484,0
+                2.158445,41.358434,0
+                2.158188,41.359449,0
+                2.156471,41.358982,0
+                2.154711,41.358901,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cemetery of Montjuïc</name>
+        <description>Previously known as the South-West cemetery, Montjuïc was inaugurated on March the 17th 1883, following a project by the architect Leandro Albareda. The biggest regarding the number of graves and works of art.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            2.155809,41.353989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

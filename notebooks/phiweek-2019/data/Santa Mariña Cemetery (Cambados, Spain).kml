@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Santa Mariña Cemetery (Cambados, Spain)</name>
+    <description>A National Monument since 1943 and nowadays home to the world most melancholic cemetery.</description>
+    <Style id="poly-33CC00-3000-115-normal">
+      <LineStyle>
+        <color>ff00cc33</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7300cc33</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-33CC00-3000-115-highlight">
+      <LineStyle>
+        <color>ff00cc33</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7300cc33</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-33CC00-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-33CC00-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-33CC00-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Santa Mariña Cemetery (Cambados, Spain)</name>
+        <description>A National Monument since 1943 and nowadays home to the world most melancholic cemetery.</description>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -8.807591,42.512218,0
+                -8.807822,42.512127,0
+                -8.808058,42.512036,0
+                -8.807968,42.511842,0
+                -8.807737,42.511771,0
+                -8.808048,42.511218,0
+                -8.807308,42.511131,0
+                -8.807163,42.511198,0
+                -8.806648,42.511115,0
+                -8.806567,42.511115,0
+                -8.806626,42.511324,0
+                -8.806975,42.511621,0
+                -8.807136,42.511846,0
+                -8.807211,42.512009,0
+                -8.807345,42.512092,0
+                -8.807591,42.512218,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

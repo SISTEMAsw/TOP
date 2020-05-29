@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.548769,
+                            55.694229,
+                            0
+                        ],
+                        [
+                            12.54482,
+                            55.690649,
+                            0
+                        ],
+                        [
+                            12.551622,
+                            55.687988,
+                            0
+                        ],
+                        [
+                            12.554326,
+                            55.690528,
+                            0
+                        ],
+                        [
+                            12.548769,
+                            55.694229,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Assistens Kirkegård (Copenhagen, Denmark)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549691,
+                    55.690794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Assistens Kirkegård (Copenhagen, Denmark)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "In 1711 a virulent epidemic caused the death of one third of the inhabitants of Copenhagen. As the city's cemeteries could not possibly cope with the resulting demand for burial plots, five new cemeteries were laid out, as a temporary solution."
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cemetery of Skiathos</name>
+    <description><![CDATA[Skiathos island, 37002,<br>Greece]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-009D57-1200-76-normal">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c579d00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-009D57-1200-76-highlight">
+      <LineStyle>
+        <color>ff579d00</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c579d00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-009D57-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-009D57-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-009D57-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Cemetery of Skiathos</name>
+        <description>The Cemetery of Skiathos was established in 1835 and it has been characterized as an Historical Site, by the Ministry of Culture. </description>
+        <styleUrl>#poly-009D57-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                23.4831476,39.1623775,0
+                23.4831235,39.1621529,0
+                23.4832898,39.162076,0
+                23.4836841,39.1620697,0
+                23.4836519,39.1622673,0
+                23.4835446,39.1624004,0
+                23.4833542,39.1624295,0
+                23.4831476,39.1623775,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Mr. Nikolaos Damaskos</name>
+        <description>Grave of Mr. Nikolaos Damaskos - a captain who was buried in the Cemetery of Skiathos in 1926.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.4835124,39.1622194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr. Aigialidis </name>
+        <description>Grave of Mr. Aigialidis who was buried in the Cemetery of Skiathos in 1900.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.4834909,39.1622153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr. Alexandros Papadiamantis</name>
+        <description>Grave of Mr. Alexandros Papadiamantis - a wold known writer who was buried in the Cemetery of Skiathos in 1911.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.4835365,39.1622028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr. Ioannis Kavouris</name>
+        <description>Grave of Mr. Ioannis Kavouris who was buried in the Cemetery of Skiathos in 1900.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.4834105,39.1621945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr. Giorgos Ioannou</name>
+        <description>Grave of Mr. Giorgos Ioannou - a Greek Revolution hero who was buried in the Cemetery of Skiathos in 1882.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.4832817,39.1621155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

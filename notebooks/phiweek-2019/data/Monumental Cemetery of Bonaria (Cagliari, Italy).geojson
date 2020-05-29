@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.123303,
+                            39.211359,
+                            0
+                        ],
+                        [
+                            9.123223,
+                            39.209977,
+                            0
+                        ],
+                        [
+                            9.125127,
+                            39.207973,
+                            0
+                        ],
+                        [
+                            9.126087,
+                            39.208526,
+                            0
+                        ],
+                        [
+                            9.126291,
+                            39.209172,
+                            0
+                        ],
+                        [
+                            9.126334,
+                            39.210759,
+                            0
+                        ],
+                        [
+                            9.126179,
+                            39.211917,
+                            0
+                        ],
+                        [
+                            9.123443,
+                            39.212428,
+                            0
+                        ],
+                        [
+                            9.123303,
+                            39.211359,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Monumental Cemetery of Bonaria (Cagliari, Italy)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.125015,
+                    39.210452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monumental Cemetery of Bonaria (Cagliari, Italy)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "It was built in 1829 in the farthest part in the eastern of the district of Villanova. It was planned by the military Captain Luigi Damiano, and it put an end, following the text of the Napoleonic decree of Saint Cloud on 12th June,1804, to the habit of burying the dead inside the walls of the city and in churches, which was cause of several and dreadful pestilences, among the others that one of 1652, that ended by intercession of Saint Ephysius, whose feast on May 1th is connected to."
+            }
+        }
+    ]
+}

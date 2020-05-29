@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.302936,
+                            44.49401,
+                            0
+                        ],
+                        [
+                            11.304771,
+                            44.493658,
+                            0
+                        ],
+                        [
+                            11.306423,
+                            44.494255,
+                            0
+                        ],
+                        [
+                            11.309019,
+                            44.49538,
+                            0
+                        ],
+                        [
+                            11.310478,
+                            44.495633,
+                            0
+                        ],
+                        [
+                            11.310511,
+                            44.495931,
+                            0
+                        ],
+                        [
+                            11.310843,
+                            44.495962,
+                            0
+                        ],
+                        [
+                            11.311648,
+                            44.498066,
+                            0
+                        ],
+                        [
+                            11.311476,
+                            44.498204,
+                            0
+                        ],
+                        [
+                            11.308354,
+                            44.499069,
+                            0
+                        ],
+                        [
+                            11.306123,
+                            44.499612,
+                            0
+                        ],
+                        [
+                            11.304685,
+                            44.499559,
+                            0
+                        ],
+                        [
+                            11.302936,
+                            44.49401,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Monumental Cemetery (Bologna, Italy)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.306906,
+                    44.496766,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monumental Cemetery (Bologna, Italy)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The Certosa di Bologna is a former Carthusian monastery (or charterhouse) in Bologna, central Italy, which was founded in 1334 and suppressed in 1797. In 1801 it became the city’s Monumental Cemetery which would be much praised by Byron and others. In 1869 an Etruscan necropolis, which had been in use from the sixth to the third centuries BCE, was discovered here."
+            }
+        }
+    ]
+}

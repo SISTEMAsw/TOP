@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.727471,
+                            41.232796,
+                            0
+                        ],
+                        [
+                            1.727648,
+                            41.232413,
+                            0
+                        ],
+                        [
+                            1.727793,
+                            41.231626,
+                            0
+                        ],
+                        [
+                            1.729311,
+                            41.231779,
+                            0
+                        ],
+                        [
+                            1.729167,
+                            41.23253,
+                            0
+                        ],
+                        [
+                            1.729392,
+                            41.232562,
+                            0
+                        ],
+                        [
+                            1.72929,
+                            41.233211,
+                            0
+                        ],
+                        [
+                            1.727868,
+                            41.233038,
+                            0
+                        ],
+                        [
+                            1.727471,
+                            41.232796,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Vilanova i la Geltrú (Vilanova i la Geltrú, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.728485,
+                    41.232348,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Vilanova i la Geltrú (Vilanova i la Geltrú, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The cemetery of Vilanova i la Geltrú was built in 1855. We can mainly find modernist graves like the one of the bishop of Armanyá. As it happened in other towns, most of the panteons belong to the people who emigrated to America looking for fortune."
+            }
+        }
+    ]
+}

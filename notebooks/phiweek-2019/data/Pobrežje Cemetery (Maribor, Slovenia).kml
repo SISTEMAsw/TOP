@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pobrežje Cemetery (Maribor, Slovenia)</name>
+    <description/>
+    <Style id="poly-097138-4301-145-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>91387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4301-145-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.4515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>91387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4301-145">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4301-145-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4301-145-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Pobrežje Cemetery</name>
+        <description>Cesta XIV. divizije 39/a, 2000 Maribor, Slovenia</description>
+        <styleUrl>#poly-097138-4301-145</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                15.6649774,46.5524244,0
+                15.6637758,46.5513693,0
+                15.6651062,46.5506094,0
+                15.6649238,46.5504987,0
+                15.6642908,46.5505356,0
+                15.662896,46.5503142,0
+                15.661673,46.5499748,0
+                15.6620699,46.5480785,0
+                15.6627995,46.5480343,0
+                15.6629604,46.5481523,0
+                15.6645376,46.5480417,0
+                15.6657928,46.5482187,0
+                15.6660825,46.5499306,0
+                15.6675416,46.5513177,0
+                15.6671983,46.5519596,0
+                15.6659001,46.5525203,0
+                15.6655997,46.5521883,0
+                15.6649774,46.5524244,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

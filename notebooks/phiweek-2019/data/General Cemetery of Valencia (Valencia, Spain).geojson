@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39892,
+                    39.448389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "General Cemetery of Valencia (Valencia, Spain)",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.39888,
+                            39.452631,
+                            0
+                        ],
+                        [
+                            -0.399223,
+                            39.452333,
+                            0
+                        ],
+                        [
+                            -0.39918,
+                            39.452217,
+                            0
+                        ],
+                        [
+                            -0.402206,
+                            39.449566,
+                            0
+                        ],
+                        [
+                            -0.402335,
+                            39.449201,
+                            0
+                        ],
+                        [
+                            -0.402592,
+                            39.448207,
+                            0
+                        ],
+                        [
+                            -0.400554,
+                            39.445705,
+                            0
+                        ],
+                        [
+                            -0.397743,
+                            39.4436,
+                            0
+                        ],
+                        [
+                            -0.397464,
+                            39.443617,
+                            0
+                        ],
+                        [
+                            -0.397228,
+                            39.444943,
+                            0
+                        ],
+                        [
+                            -0.396863,
+                            39.445423,
+                            0
+                        ],
+                        [
+                            -0.396133,
+                            39.447147,
+                            0
+                        ],
+                        [
+                            -0.396112,
+                            39.447925,
+                            0
+                        ],
+                        [
+                            -0.395018,
+                            39.449682,
+                            0
+                        ],
+                        [
+                            -0.39888,
+                            39.452631,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "General Cemetery of Valencia (Valencia, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

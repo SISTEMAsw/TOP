@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.579667,
+                            37.171081,
+                            0
+                        ],
+                        [
+                            -3.581416,
+                            37.168901,
+                            0
+                        ],
+                        [
+                            -3.580729,
+                            37.168567,
+                            0
+                        ],
+                        [
+                            -3.57985,
+                            37.168422,
+                            0
+                        ],
+                        [
+                            -3.579141,
+                            37.168371,
+                            0
+                        ],
+                        [
+                            -3.577296,
+                            37.167729,
+                            0
+                        ],
+                        [
+                            -3.576373,
+                            37.168311,
+                            0
+                        ],
+                        [
+                            -3.575247,
+                            37.167593,
+                            0
+                        ],
+                        [
+                            -3.574399,
+                            37.168165,
+                            0
+                        ],
+                        [
+                            -3.576953,
+                            37.170482,
+                            0
+                        ],
+                        [
+                            -3.576888,
+                            37.170687,
+                            0
+                        ],
+                        [
+                            -3.577843,
+                            37.171311,
+                            0
+                        ],
+                        [
+                            -3.578627,
+                            37.170704,
+                            0
+                        ],
+                        [
+                            -3.579667,
+                            37.171081,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Municipal Cemetery of Granada ",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.57841,
+                    37.169653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Municipal Cemetery of Granada (Granda, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The Municipal Cemetery of Granada is part of the landscape and historical monuments of the Alhambra, a short distance from the entrance to the Nazari Palaces."
+            }
+        }
+    ]
+}

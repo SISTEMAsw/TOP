@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.154711,
+                            41.358901,
+                            0
+                        ],
+                        [
+                            2.151815,
+                            41.356953,
+                            0
+                        ],
+                        [
+                            2.150871,
+                            41.356647,
+                            0
+                        ],
+                        [
+                            2.149669,
+                            41.356437,
+                            0
+                        ],
+                        [
+                            2.149776,
+                            41.354955,
+                            0
+                        ],
+                        [
+                            2.151343,
+                            41.353941,
+                            0
+                        ],
+                        [
+                            2.151278,
+                            41.353345,
+                            0
+                        ],
+                        [
+                            2.152501,
+                            41.352555,
+                            0
+                        ],
+                        [
+                            2.153231,
+                            41.352169,
+                            0
+                        ],
+                        [
+                            2.155699,
+                            41.352765,
+                            0
+                        ],
+                        [
+                            2.157866,
+                            41.353747,
+                            0
+                        ],
+                        [
+                            2.160012,
+                            41.355664,
+                            0
+                        ],
+                        [
+                            2.158595,
+                            41.357484,
+                            0
+                        ],
+                        [
+                            2.158445,
+                            41.358434,
+                            0
+                        ],
+                        [
+                            2.158188,
+                            41.359449,
+                            0
+                        ],
+                        [
+                            2.156471,
+                            41.358982,
+                            0
+                        ],
+                        [
+                            2.154711,
+                            41.358901,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Montjuïc",
+                "styleUrl": "#poly-33CC00-3000-115-nodesc",
+                "styleHash": "3ddfcc0d",
+                "styleMapHash": {
+                    "normal": "#poly-33CC00-3000-115-nodesc-normal",
+                    "highlight": "#poly-33CC00-3000-115-nodesc-highlight"
+                },
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#33cc00",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.155809,
+                    41.353989,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Montjuïc",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Previously known as the South-West cemetery, Montjuïc was inaugurated on March the 17th 1883, following a project by the architect Leandro Albareda. The biggest regarding the number of graves and works of art."
+            }
+        }
+    ]
+}

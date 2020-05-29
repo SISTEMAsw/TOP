@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            26.722033,
+                            58.394178,
+                            0
+                        ],
+                        [
+                            26.728191,
+                            58.392233,
+                            0
+                        ],
+                        [
+                            26.730895,
+                            58.393886,
+                            0
+                        ],
+                        [
+                            26.73274,
+                            58.396202,
+                            0
+                        ],
+                        [
+                            26.726174,
+                            58.397889,
+                            0
+                        ],
+                        [
+                            26.722033,
+                            58.394178,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Raadi Cemetery",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.727569,
+                    58.395325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Raadi cemetery, Estonia",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.080123,
+                            51.56636,
+                            0
+                        ],
+                        [
+                            -0.080123,
+                            51.564506,
+                            0
+                        ],
+                        [
+                            -0.078986,
+                            51.563626,
+                            0
+                        ],
+                        [
+                            -0.078106,
+                            51.562639,
+                            0
+                        ],
+                        [
+                            -0.077333,
+                            51.562372,
+                            0
+                        ],
+                        [
+                            -0.076754,
+                            51.562905,
+                            0
+                        ],
+                        [
+                            -0.075982,
+                            51.562905,
+                            0
+                        ],
+                        [
+                            -0.07463,
+                            51.562772,
+                            0
+                        ],
+                        [
+                            -0.074179,
+                            51.563986,
+                            0
+                        ],
+                        [
+                            -0.075681,
+                            51.564533,
+                            0
+                        ],
+                        [
+                            -0.075939,
+                            51.566187,
+                            0
+                        ],
+                        [
+                            -0.076861,
+                            51.566547,
+                            0
+                        ],
+                        [
+                            -0.080123,
+                            51.56636,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Abney Cemetery (London, United Kingdom)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078599,
+                    51.565093,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Abney Cemetery (London, United Kingdom)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The park originated in the eighteenth century when the land was laid out by Lady Mary Abney. It was, for many years, home to Dr Isaac Watts, the ‘father of hymnology’, whose ‘Busy Little Bee’ and ‘O God our help in ages past’ are well known today."
+            }
+        }
+    ]
+}

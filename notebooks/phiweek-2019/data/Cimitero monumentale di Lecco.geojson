@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.3890994,
+                            45.8591703,
+                            0
+                        ],
+                        [
+                            9.3900382,
+                            45.8583111,
+                            0
+                        ],
+                        [
+                            9.3903011,
+                            45.8582363,
+                            0
+                        ],
+                        [
+                            9.3905639,
+                            45.8580234,
+                            0
+                        ],
+                        [
+                            9.3911808,
+                            45.8582513,
+                            0
+                        ],
+                        [
+                            9.3913149,
+                            45.8585875,
+                            0
+                        ],
+                        [
+                            9.3912667,
+                            45.858651,
+                            0
+                        ],
+                        [
+                            9.3900758,
+                            45.8596859,
+                            0
+                        ],
+                        [
+                            9.3890994,
+                            45.8591703,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Polygon 2",
+                "styleUrl": "#poly-000000-1200-77-nodesc",
+                "styleHash": "4fc78414",
+                "styleMapHash": {
+                    "normal": "#poly-000000-1200-77-nodesc-normal",
+                    "highlight": "#poly-000000-1200-77-nodesc-highlight"
+                },
+                "stroke": "#000000",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#000000",
+                "fill-opacity": 0.30196078431372547
+            }
+        }
+    ]
+}

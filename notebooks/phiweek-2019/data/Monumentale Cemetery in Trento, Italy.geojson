@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.11695,
+                            46.063576,
+                            0
+                        ],
+                        [
+                            11.118549,
+                            46.063673,
+                            0
+                        ],
+                        [
+                            11.118377,
+                            46.064804,
+                            0
+                        ],
+                        [
+                            11.116778,
+                            46.064678,
+                            0
+                        ],
+                        [
+                            11.11695,
+                            46.063576,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Monumentale Cemetery in Trento",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.115984,
+                            46.063256,
+                            0
+                        ],
+                        [
+                            11.116156,
+                            46.062043,
+                            0
+                        ],
+                        [
+                            11.118795,
+                            46.062296,
+                            0
+                        ],
+                        [
+                            11.118602,
+                            46.063368,
+                            0
+                        ],
+                        [
+                            11.117068,
+                            46.063226,
+                            0
+                        ],
+                        [
+                            11.115984,
+                            46.063256,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Monumentale Cemetery in Trento",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11751,
+                    46.064246,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monumentale Cemetery in Trento",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

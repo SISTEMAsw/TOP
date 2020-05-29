@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.621524,
+                            44.693324,
+                            0
+                        ],
+                        [
+                            10.621237,
+                            44.693324,
+                            0
+                        ],
+                        [
+                            10.621119,
+                            44.693232,
+                            0
+                        ],
+                        [
+                            10.621001,
+                            44.69295,
+                            0
+                        ],
+                        [
+                            10.620874,
+                            44.692658,
+                            0
+                        ],
+                        [
+                            10.62057,
+                            44.69189,
+                            0
+                        ],
+                        [
+                            10.623048,
+                            44.691035,
+                            0
+                        ],
+                        [
+                            10.623993,
+                            44.692466,
+                            0
+                        ],
+                        [
+                            10.621524,
+                            44.693324,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Suburban Cemetery",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            10.621437,
+                            44.693366,
+                            0
+                        ],
+                        [
+                            10.622076,
+                            44.6932,
+                            0
+                        ],
+                        [
+                            10.622274,
+                            44.693547,
+                            0
+                        ],
+                        [
+                            10.622191,
+                            44.693613,
+                            0
+                        ],
+                        [
+                            10.622245,
+                            44.693716,
+                            0
+                        ],
+                        [
+                            10.622033,
+                            44.693756,
+                            0
+                        ],
+                        [
+                            10.622111,
+                            44.693901,
+                            0
+                        ],
+                        [
+                            10.621708,
+                            44.693997,
+                            0
+                        ],
+                        [
+                            10.621333,
+                            44.693396,
+                            0
+                        ],
+                        [
+                            10.621437,
+                            44.693366,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Jewish Cemetery",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622095,
+                    44.692317,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suburban and Jewish Cemeteries of Reggio Emilia",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

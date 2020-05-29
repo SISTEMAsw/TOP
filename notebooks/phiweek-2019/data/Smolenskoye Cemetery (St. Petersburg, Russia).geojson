@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.238473,
+                            59.943964,
+                            0
+                        ],
+                        [
+                            30.245104,
+                            59.93873,
+                            0
+                        ],
+                        [
+                            30.256562,
+                            59.941997,
+                            0
+                        ],
+                        [
+                            30.252206,
+                            59.945866,
+                            0
+                        ],
+                        [
+                            30.252721,
+                            59.946038,
+                            0
+                        ],
+                        [
+                            30.252507,
+                            59.94649,
+                            0
+                        ],
+                        [
+                            30.253429,
+                            59.947027,
+                            0
+                        ],
+                        [
+                            30.252099,
+                            59.947639,
+                            0
+                        ],
+                        [
+                            30.251026,
+                            59.947639,
+                            0
+                        ],
+                        [
+                            30.238473,
+                            59.943964,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Smolenskoye Cemetery (St. Petersburg, Russia) ",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.248795,
+                    59.943685,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smolenskoye Cemetery (St. Petersburg, Russia) ",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Smolenskoye Cemetery in the Vasilyevsky Island was established in 1756 to the decree issued by the Senate, but there is evidence of burials that took place at this site earlier."
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Municipal Cemetery of the Capuchins</name>
+    <description>Passeig dels Molins, 69, 08304 MATARÓ (Spain)</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-4186F0-2201-122-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>2.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7af08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-4186F0-2201-122-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>3.3015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7af08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-2201-122">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-2201-122-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-2201-122-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Municipal Cemetery of the Capuchins</name>
+        <description>Passeig dels Molins, 69, 08304 MATARÓ (Spain)</description>
+        <styleUrl>#poly-4186F0-2201-122</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                2.4449515,41.5502662,0
+                2.4449462,41.5498728,0
+                2.4452573,41.5490698,0
+                2.4451339,41.5490498,0
+                2.4451447,41.5486322,0
+                2.4450266,41.5486041,0
+                2.4451339,41.5481906,0
+                2.4466896,41.5484676,0
+                2.4464911,41.5487808,0
+                2.4471295,41.5491501,0
+                2.4464804,41.5498126,0
+                2.4462014,41.5498085,0
+                2.4458259,41.5496158,0
+                2.4455953,41.5501056,0
+                2.4450159,41.5502943,0
+                2.4449515,41.5502662,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cemetery of the Capuchins</name>
+        <description>Passeig dels Molins, 69, 08304 MATARÓ (Spain)</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            2.4456865,41.5492666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

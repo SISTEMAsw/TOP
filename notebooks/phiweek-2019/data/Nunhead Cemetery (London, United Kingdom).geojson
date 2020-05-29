@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.050747,
+                            51.465799,
+                            0
+                        ],
+                        [
+                            -0.05564,
+                            51.462711,
+                            0
+                        ],
+                        [
+                            -0.050211,
+                            51.459502,
+                            0
+                        ],
+                        [
+                            -0.047507,
+                            51.46128,
+                            0
+                        ],
+                        [
+                            -0.050747,
+                            51.465799,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Nunhead Cemetery (London, United Kingdom)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.050983,
+                    51.462711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nunhead Cemetery (London, United Kingdom)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Nunhead Cemetery is one of the Magnificent Seven cemeteries in London, England. It is perhaps the least famous and celebrated of them. The cemetery is located in the Nunhead area of southern London and was originally known as All Saints' Cemetery."
+            }
+        }
+    ]
+}

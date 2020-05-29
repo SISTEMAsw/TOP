@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.893138,
+                            43.295902,
+                            0
+                        ],
+                        [
+                            -2.893181,
+                            43.294809,
+                            0
+                        ],
+                        [
+                            -2.893546,
+                            43.29281,
+                            0
+                        ],
+                        [
+                            -2.891293,
+                            43.292107,
+                            0
+                        ],
+                        [
+                            -2.889512,
+                            43.291748,
+                            0
+                        ],
+                        [
+                            -2.888181,
+                            43.294528,
+                            0
+                        ],
+                        [
+                            -2.893138,
+                            43.295902,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Bilbao (Bilbao, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.89125,
+                    43.2937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Bilbao (Bilbao, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "ilbao Cemetery opened in 1902. In that time converged both the development of a local industrial bourgeoisie and the existence of prestigious Basque architects and sculptors."
+            }
+        }
+    ]
+}

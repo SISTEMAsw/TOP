@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            16.432528,
+                            48.159502,
+                            0
+                        ],
+                        [
+                            16.426864,
+                            48.153203,
+                            0
+                        ],
+                        [
+                            16.433473,
+                            48.143182,
+                            0
+                        ],
+                        [
+                            16.434932,
+                            48.141979,
+                            0
+                        ],
+                        [
+                            16.437678,
+                            48.141406,
+                            0
+                        ],
+                        [
+                            16.452184,
+                            48.141234,
+                            0
+                        ],
+                        [
+                            16.455703,
+                            48.150455,
+                            0
+                        ],
+                        [
+                            16.444201,
+                            48.15389,
+                            0
+                        ],
+                        [
+                            16.442914,
+                            48.152459,
+                            0
+                        ],
+                        [
+                            16.439309,
+                            48.154119,
+                            0
+                        ],
+                        [
+                            16.441026,
+                            48.155265,
+                            0
+                        ],
+                        [
+                            16.432528,
+                            48.159502,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Central Cemetery of Vienna",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43795,
+                    48.150054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Zentralfriedhof - Central Cemetery (Vienna, Austria)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The Vienna Central Cemetery was built in the late XIX century according to the plans of the Frankfurt landscape architects Kari Jonas Mylius and Alfred Friedrich Bluntschli who were awarded for their project \"per angusta ad augusta\" (from dire to sublime)."
+            }
+        }
+    ]
+}

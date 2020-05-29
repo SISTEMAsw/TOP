@@ -1,0 +1,210 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6831076,
+                            48.1272932,
+                            0
+                        ],
+                        [
+                            -1.6817451,
+                            48.1245862,
+                            0
+                        ],
+                        [
+                            -1.6814554,
+                            48.1245504,
+                            0
+                        ],
+                        [
+                            -1.6812623,
+                            48.1246005,
+                            0
+                        ],
+                        [
+                            -1.6787839,
+                            48.1241422,
+                            0
+                        ],
+                        [
+                            -1.678741,
+                            48.1242138,
+                            0
+                        ],
+                        [
+                            -1.676681,
+                            48.1246721,
+                            0
+                        ],
+                        [
+                            -1.6770244,
+                            48.1257965,
+                            0
+                        ],
+                        [
+                            -1.6785371,
+                            48.1257607,
+                            0
+                        ],
+                        [
+                            -1.6787088,
+                            48.1258323,
+                            0
+                        ],
+                        [
+                            -1.6786337,
+                            48.1263909,
+                            0
+                        ],
+                        [
+                            -1.6812301,
+                            48.1265269,
+                            0
+                        ],
+                        [
+                            -1.6822278,
+                            48.1268277,
+                            0
+                        ],
+                        [
+                            -1.6829896,
+                            48.1273219,
+                            0
+                        ],
+                        [
+                            -1.6831076,
+                            48.1272932,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Northern Cemetery",
+                "styleUrl": "#poly-3F5BA9-3001-104",
+                "styleHash": "1dcd0172",
+                "styleMapHash": {
+                    "normal": "#poly-3F5BA9-3001-104-normal",
+                    "highlight": "#poly-3F5BA9-3001-104-highlight"
+                },
+                "description": "36 avenue Gros Malhon, 35000 Rennes, France",
+                "stroke": "#3f5ba9",
+                "stroke-opacity": 1,
+                "stroke-width": 3.001,
+                "fill": "#3f5ba9",
+                "fill-opacity": 0.40784313725490196
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.681686,
+                    48.1247545,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Front Dome",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "In 1829, the city council of Rennes ordered the architect Charles Millardet to build this monument at the entrance of the municipal cemetery. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6778183,
+                    48.1256389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Adolphe Léofanti’s grave",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "On the grave of sculptor Adolphe Léofanti, a sculpture is set up which was created between 1880 and 1890."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6829306,
+                    48.1271858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grave of the shoemakers Bessec",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The grave of the Bessec family was created near 1920."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6813749,
+                    48.1259182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oberthür Chapel",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The Funerary chapel of printers Oberthür was created in the first half of the 20th century."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6814178,
+                    48.1255279,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Odorico’s grave",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The grave of the mosaic worker Odorico was created in the first half of the 20th century."
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.569921,
+                            51.438641,
+                            0
+                        ],
+                        [
+                            -2.56696,
+                            51.438654,
+                            0
+                        ],
+                        [
+                            -2.564921,
+                            51.438213,
+                            0
+                        ],
+                        [
+                            -2.563891,
+                            51.437785,
+                            0
+                        ],
+                        [
+                            -2.562861,
+                            51.438387,
+                            0
+                        ],
+                        [
+                            -2.563248,
+                            51.440085,
+                            0
+                        ],
+                        [
+                            -2.56284,
+                            51.442132,
+                            0
+                        ],
+                        [
+                            -2.565694,
+                            51.44256,
+                            0
+                        ],
+                        [
+                            -2.567132,
+                            51.442707,
+                            0
+                        ],
+                        [
+                            -2.569385,
+                            51.442667,
+                            0
+                        ],
+                        [
+                            -2.570801,
+                            51.442573,
+                            0
+                        ],
+                        [
+                            -2.570608,
+                            51.442078,
+                            0
+                        ],
+                        [
+                            -2.56917,
+                            51.441971,
+                            0
+                        ],
+                        [
+                            -2.569964,
+                            51.440326,
+                            0
+                        ],
+                        [
+                            -2.569942,
+                            51.439711,
+                            0
+                        ],
+                        [
+                            -2.569921,
+                            51.438641,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Arnos Vale Cemetery (Bristol, United Kingdom)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.56711,
+                    51.440875,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arnos Vale Cemetery (Bristol, United Kingdom)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Arnos Vale Cemetery was established by the Bristol Cemetery Company in 1837 as a response to the overcrowded City church yards. The amphitheatre site was landscaped, and impressive Doric Styled entrance lodges, Ionic styled Non - Conformist Chapel and Corinthian styled Anglican Chapel were constructed, all are now grade 2* listed structures."
+            }
+        }
+    ]
+}

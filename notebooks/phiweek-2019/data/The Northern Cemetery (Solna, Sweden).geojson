@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.024917,
+                            59.350587,
+                            0
+                        ],
+                        [
+                            18.028865,
+                            59.351855,
+                            0
+                        ],
+                        [
+                            18.031311,
+                            59.353605,
+                            0
+                        ],
+                        [
+                            18.035989,
+                            59.354459,
+                            0
+                        ],
+                        [
+                            18.02968,
+                            59.358243,
+                            0
+                        ],
+                        [
+                            18.028693,
+                            59.358637,
+                            0
+                        ],
+                        [
+                            18.025217,
+                            59.362661,
+                            0
+                        ],
+                        [
+                            18.017106,
+                            59.361677,
+                            0
+                        ],
+                        [
+                            18.017535,
+                            59.359555,
+                            0
+                        ],
+                        [
+                            18.016548,
+                            59.355815,
+                            0
+                        ],
+                        [
+                            18.016033,
+                            59.354852,
+                            0
+                        ],
+                        [
+                            18.01805,
+                            59.353474,
+                            0
+                        ],
+                        [
+                            18.024917,
+                            59.350587,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "The Northern Cemetery (Solna, Sweden)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.023715,
+                    59.356537,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Northern Cemetery (Solna, Sweden)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Norra begravningsplatsen, literally \"The Northern Cemetery\" in Swedish, is a major cemetery of Metropolitan Stockholm. The cemetery is located in the municipality of Solna.<br>Inaugurated on June 9, 1827, it is the burial site for a number of Swedish notables."
+            }
+        }
+    ]
+}

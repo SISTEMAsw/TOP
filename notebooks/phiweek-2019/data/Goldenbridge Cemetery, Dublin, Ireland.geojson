@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.317611,
+                            53.335729,
+                            0
+                        ],
+                        [
+                            -6.315771,
+                            53.33597,
+                            0
+                        ],
+                        [
+                            -6.31598,
+                            53.336873,
+                            0
+                        ],
+                        [
+                            -6.317858,
+                            53.336719,
+                            0
+                        ],
+                        [
+                            -6.317611,
+                            53.335729,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Goldenbridge Cemetery, Dublin, Ireland",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.316731,
+                    53.336357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Goldenbridge Cemetery, Dublin, Ireland",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "With the passing of the 'Act of Easement of Burial Bills' in 1824, a committee was formed to administer the proposed cemetery. A small plot of land had been acquired for this purpose at Goldenbridge. The cemetery was purchased in 1828 and the first burial took place on the 15th October of that year. <...more (http://significant-cemeteries.blogspot.com/2011/11/goldenbridge-cemetery-dublin-ireland.html)>"
+            }
+        }
+    ]
+}

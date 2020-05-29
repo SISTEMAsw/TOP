@@ -1,0 +1,79 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.9881476,
+                            41.0666659,
+                            0
+                        ],
+                        [
+                            28.9875575,
+                            41.0651533,
+                            0
+                        ],
+                        [
+                            28.9876863,
+                            41.0643444,
+                            0
+                        ],
+                        [
+                            28.9894244,
+                            41.0638833,
+                            0
+                        ],
+                        [
+                            28.9893385,
+                            41.065396,
+                            0
+                        ],
+                        [
+                            28.9926323,
+                            41.0646437,
+                            0
+                        ],
+                        [
+                            28.9944133,
+                            41.0658085,
+                            0
+                        ],
+                        [
+                            28.9941772,
+                            41.0663019,
+                            0
+                        ],
+                        [
+                            28.9914199,
+                            41.0661968,
+                            0
+                        ],
+                        [
+                            28.9881476,
+                            41.0666659,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Şişli Greek Orthodox Cemetery",
+                "styleUrl": "#poly-1A237E-2601-115-nodesc",
+                "styleHash": "6bea46c0",
+                "styleMapHash": {
+                    "normal": "#poly-1A237E-2601-115-nodesc-normal",
+                    "highlight": "#poly-1A237E-2601-115-nodesc-highlight"
+                },
+                "stroke": "#1a237e",
+                "stroke-opacity": 1,
+                "stroke-width": 2.601,
+                "fill": "#1a237e",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

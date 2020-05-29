@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            15.530459,
+                            45.494917,
+                            0
+                        ],
+                        [
+                            15.530437,
+                            45.493082,
+                            0
+                        ],
+                        [
+                            15.530781,
+                            45.492946,
+                            0
+                        ],
+                        [
+                            15.533205,
+                            45.492931,
+                            0
+                        ],
+                        [
+                            15.531639,
+                            45.494917,
+                            0
+                        ],
+                        [
+                            15.530459,
+                            45.494917,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Catholic Cemetery Dubovac (Karlovac, Croatia)",
+                "styleUrl": "#poly-33CC00-3000-115",
+                "styleHash": "-4accd8ea",
+                "styleMapHash": {
+                    "normal": "#poly-33CC00-3000-115-normal",
+                    "highlight": "#poly-33CC00-3000-115-highlight"
+                },
+                "description": "Near Karlovac, under  the walls of the  Old Town Dubovac, which dates from the 12th century, there is the old Catholic cemetery on Dubova.",
+                "stroke": "#33cc00",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#33cc00",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Şişli Greek Orthodox Cemetery (Istanbul, Turkey)</name>
+    <description/>
+    <Style id="poly-1A237E-2601-115-nodesc-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>2.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>737e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-1A237E-2601-115-nodesc-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>3.9015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>737e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-1A237E-2601-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-1A237E-2601-115-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-1A237E-2601-115-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Şişli Greek Orthodox Cemetery</name>
+        <styleUrl>#poly-1A237E-2601-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                28.9881476,41.0666659,0
+                28.9875575,41.0651533,0
+                28.9876863,41.0643444,0
+                28.9894244,41.0638833,0
+                28.9893385,41.065396,0
+                28.9926323,41.0646437,0
+                28.9944133,41.0658085,0
+                28.9941772,41.0663019,0
+                28.9914199,41.0661968,0
+                28.9881476,41.0666659,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

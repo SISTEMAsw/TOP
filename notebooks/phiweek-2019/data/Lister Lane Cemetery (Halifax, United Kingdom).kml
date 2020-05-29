@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lister Lane Cemetery (Halifax, United Kingdom)</name>
+    <description>Lister Lane Cemetery, formerly known as The Halifax General Cemetery, was opened in 1841. </description>
+    <Style id="poly-3F5BA9-2201-112-normal">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>2.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>70a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3F5BA9-2201-112-highlight">
+      <LineStyle>
+        <color>ffa95b3f</color>
+        <width>3.3015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>70a95b3f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3F5BA9-2201-112">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3F5BA9-2201-112-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3F5BA9-2201-112-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Lister Lane Cemetery
+</name>
+        <description>Halifax, United Kingdom</description>
+        <styleUrl>#poly-3F5BA9-2201-112</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -1.8745691,53.723288,0
+                -1.8746817,53.7223993,0
+                -1.8744028,53.7223993,0
+                -1.8743974,53.7223009,0
+                -1.8729866,53.7223104,0
+                -1.8728256,53.7234245,0
+                -1.8745691,53.723288,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

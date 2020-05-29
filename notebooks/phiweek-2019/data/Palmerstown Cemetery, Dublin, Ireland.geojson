@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.384684,
+                            53.352277,
+                            0
+                        ],
+                        [
+                            -6.385408,
+                            53.349347,
+                            0
+                        ],
+                        [
+                            -6.384137,
+                            53.34921,
+                            0
+                        ],
+                        [
+                            -6.383726,
+                            53.348957,
+                            0
+                        ],
+                        [
+                            -6.381452,
+                            53.352216,
+                            0
+                        ],
+                        [
+                            -6.381613,
+                            53.352268,
+                            0
+                        ],
+                        [
+                            -6.384684,
+                            53.352277,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Palmerstown Cemetery, Dublin, Ireland",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.383808,
+                    53.351038,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palmerstown Cemetery, Dublin, Ireland",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The parish of Palmerston (Irish: Baile Phámar) has been known by this name since the twelfth century when the lands here were held by the Hospital of St. John the Baptist without Newgate, otherwise known as the Palmer's Hospital, from the name of the founder Ailred the Palmer, or Pilgrim. (...more (http://significant-cemeteries.blogspot.com/2011/11/palmerstown-cemetery-dublin-ireland.html))"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            15.6916308,
+                            46.5190823,
+                            0
+                        ],
+                        [
+                            15.692414,
+                            46.5161218,
+                            0
+                        ],
+                        [
+                            15.6977034,
+                            46.5168897,
+                            0
+                        ],
+                        [
+                            15.6970382,
+                            46.5189347,
+                            0
+                        ],
+                        [
+                            15.6956112,
+                            46.5196877,
+                            0
+                        ],
+                        [
+                            15.6916308,
+                            46.5190823,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Dobrava Cemetery",
+                "styleUrl": "#poly-4186F0-4501-64",
+                "styleHash": "d8cbcf2",
+                "styleMapHash": {
+                    "normal": "#poly-4186F0-4501-64-normal",
+                    "highlight": "#poly-4186F0-4501-64-highlight"
+                },
+                "description": "The Dobrava cemetery in Maribor, Slovenia",
+                "stroke": "#4186f0",
+                "stroke-opacity": 1,
+                "stroke-width": 4.501,
+                "fill": "#4186f0",
+                "fill-opacity": 0.25098039215686274
+            }
+        }
+    ]
+}

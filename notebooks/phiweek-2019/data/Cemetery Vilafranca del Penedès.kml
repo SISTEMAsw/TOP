@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0000FF-3000-115-normal">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73ff0000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0000FF-3000-115-highlight">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73ff0000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0000FF-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0000FF-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0000FF-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Cemetery Vilafranca del Penedès </name>
+      <description><![CDATA[Vilafranca del Penedès <br>Spain]]></description>
+      <styleUrl>#icon-22</styleUrl>
+      <Point>
+        <coordinates>
+          1.700585,41.35297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cemetery Vilafranca del Penedès </name>
+      <description><![CDATA[Vilafranca del Penedès <br>Spain]]></description>
+      <styleUrl>#poly-0000FF-3000-115</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              1.700117,41.352982,0
+              1.699887,41.352809,0
+              1.699463,41.352612,0
+              1.699452,41.352475,0
+              1.699854,41.351895,0
+              1.699833,41.351653,0
+              1.700724,41.351545,0
+              1.700981,41.352861,0
+              1.700917,41.352882,0
+              1.700927,41.35295,0
+              1.700884,41.353075,0
+              1.700836,41.353155,0
+              1.700702,41.353216,0
+              1.700595,41.353228,0
+              1.700407,41.35318,0
+              1.700294,41.353091,0
+              1.700117,41.352982,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

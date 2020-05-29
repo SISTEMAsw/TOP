@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.949652,
+                            44.428118,
+                            0
+                        ],
+                        [
+                            8.953911,
+                            44.429053,
+                            0
+                        ],
+                        [
+                            8.954244,
+                            44.429543,
+                            0
+                        ],
+                        [
+                            8.954147,
+                            44.430079,
+                            0
+                        ],
+                        [
+                            8.9536,
+                            44.430401,
+                            0
+                        ],
+                        [
+                            8.952774,
+                            44.430455,
+                            0
+                        ],
+                        [
+                            8.951604,
+                            44.430187,
+                            0
+                        ],
+                        [
+                            8.951476,
+                            44.43047,
+                            0
+                        ],
+                        [
+                            8.950317,
+                            44.430486,
+                            0
+                        ],
+                        [
+                            8.948772,
+                            44.431221,
+                            0
+                        ],
+                        [
+                            8.946369,
+                            44.430608,
+                            0
+                        ],
+                        [
+                            8.946079,
+                            44.429911,
+                            0
+                        ],
+                        [
+                            8.946497,
+                            44.429359,
+                            0
+                        ],
+                        [
+                            8.947002,
+                            44.42929,
+                            0
+                        ],
+                        [
+                            8.947248,
+                            44.4288,
+                            0
+                        ],
+                        [
+                            8.947506,
+                            44.428317,
+                            0
+                        ],
+                        [
+                            8.949265,
+                            44.428555,
+                            0
+                        ],
+                        [
+                            8.949652,
+                            44.428118,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Staglieno Cemetery (Genova, Italy)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.950735,
+                    44.429436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Staglieno Cemetery (Genova, Italy)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Open in 1851, Staglieno developed with great representative intensity since the I World War. It combines the typology of the neo-classical architectural cemetery of Mediterranean tradition which eventually became a \"gallery\" of monuments with the one of the naturalistic cemetery diffused in northern Europe."
+            }
+        }
+    ]
+}

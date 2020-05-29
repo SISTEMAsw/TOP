@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.398878,
+                            43.878902,
+                            0
+                        ],
+                        [
+                            18.397697,
+                            43.878577,
+                            0
+                        ],
+                        [
+                            18.396474,
+                            43.878407,
+                            0
+                        ],
+                        [
+                            18.394994,
+                            43.878222,
+                            0
+                        ],
+                        [
+                            18.392912,
+                            43.877742,
+                            0
+                        ],
+                        [
+                            18.394135,
+                            43.876427,
+                            0
+                        ],
+                        [
+                            18.394565,
+                            43.87584,
+                            0
+                        ],
+                        [
+                            18.395852,
+                            43.874881,
+                            0
+                        ],
+                        [
+                            18.396346,
+                            43.873875,
+                            0
+                        ],
+                        [
+                            18.396861,
+                            43.87403,
+                            0
+                        ],
+                        [
+                            18.397569,
+                            43.873999,
+                            0
+                        ],
+                        [
+                            18.398341,
+                            43.873999,
+                            0
+                        ],
+                        [
+                            18.398835,
+                            43.874014,
+                            0
+                        ],
+                        [
+                            18.400401,
+                            43.875654,
+                            0
+                        ],
+                        [
+                            18.401474,
+                            43.875066,
+                            0
+                        ],
+                        [
+                            18.401989,
+                            43.875437,
+                            0
+                        ],
+                        [
+                            18.401774,
+                            43.87734,
+                            0
+                        ],
+                        [
+                            18.401324,
+                            43.877974,
+                            0
+                        ],
+                        [
+                            18.400187,
+                            43.878639,
+                            0
+                        ],
+                        [
+                            18.398878,
+                            43.878902,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bare Cemetery (Sarajevo, Bosnia and Herzegovina)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.398259,
+                    43.877541,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bare Cemetery (Sarajevo, Bosnia and Herzegovina)",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

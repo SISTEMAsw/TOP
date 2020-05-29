@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.4179599,
+                            47.2582476,
+                            0
+                        ],
+                        [
+                            11.4199018,
+                            47.2550508,
+                            0
+                        ],
+                        [
+                            11.4218009,
+                            47.2553567,
+                            0
+                        ],
+                        [
+                            11.4209533,
+                            47.256682,
+                            0
+                        ],
+                        [
+                            11.4221764,
+                            47.2570971,
+                            0
+                        ],
+                        [
+                            11.4224017,
+                            47.2568422,
+                            0
+                        ],
+                        [
+                            11.4227879,
+                            47.2569514,
+                            0
+                        ],
+                        [
+                            11.4211464,
+                            47.2591214,
+                            0
+                        ],
+                        [
+                            11.4179599,
+                            47.2582476,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Eastern Cemetery (Innsbruck, Austria)",
+                "styleUrl": "#poly-4186F0-1200-76",
+                "styleHash": "-6f66f7d2",
+                "styleMapHash": {
+                    "normal": "#poly-4186F0-1200-76-normal",
+                    "highlight": "#poly-4186F0-1200-76-highlight"
+                },
+                "description": "Created according to the plans of Eduard Klingler between 1912 and 1913. ",
+                "stroke": "#4186f0",
+                "stroke-opacity": 1,
+                "stroke-width": 1.2,
+                "fill": "#4186f0",
+                "fill-opacity": 0.2980392156862745
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.419934,
+                    47.2580218,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastern Cemetery (old part)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Kaufmannstraße 1, 6020 Innsbruck, (Austria)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4202559,
+                    47.2567767,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastern Cemetery (new part)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Wiesengasse 100, 6020 Innsbruck (Austria)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.176858,
+                            41.436405,
+                            0
+                        ],
+                        [
+                            2.179347,
+                            41.435431,
+                            0
+                        ],
+                        [
+                            2.179894,
+                            41.435906,
+                            0
+                        ],
+                        [
+                            2.180269,
+                            41.437008,
+                            0
+                        ],
+                        [
+                            2.179272,
+                            41.437442,
+                            0
+                        ],
+                        [
+                            2.178928,
+                            41.437434,
+                            0
+                        ],
+                        [
+                            2.178102,
+                            41.437587,
+                            0
+                        ],
+                        [
+                            2.176858,
+                            41.436405,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Sant Andreu",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.178758,
+                    41.436606,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Sant Andreu (Barcelona, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "One of the more surprising things is the disparity between the old neo-classic part and the modern one. Here is the outstanding sculpture dedicated in 1940 to the soldiers of the Spanish Civil War."
+            }
+        }
+    ]
+}

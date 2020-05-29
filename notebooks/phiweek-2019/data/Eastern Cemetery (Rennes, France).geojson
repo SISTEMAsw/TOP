@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.649065,
+                            48.104501,
+                            0
+                        ],
+                        [
+                            -1.6495156,
+                            48.1018071,
+                            0
+                        ],
+                        [
+                            -1.6445911,
+                            48.1006751,
+                            0
+                        ],
+                        [
+                            -1.6437864,
+                            48.10089,
+                            0
+                        ],
+                        [
+                            -1.6436148,
+                            48.101019,
+                            0
+                        ],
+                        [
+                            -1.644237,
+                            48.1049166,
+                            0
+                        ],
+                        [
+                            -1.6463077,
+                            48.1049954,
+                            0
+                        ],
+                        [
+                            -1.6478419,
+                            48.1048449,
+                            0
+                        ],
+                        [
+                            -1.6486144,
+                            48.1046801,
+                            0
+                        ],
+                        [
+                            -1.649065,
+                            48.104501,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Eastern Cemetery (Rennes, France)",
+                "styleUrl": "#poly-4186F0-3601-73",
+                "styleHash": "-9314809",
+                "styleMapHash": {
+                    "normal": "#poly-4186F0-3601-73-normal",
+                    "highlight": "#poly-4186F0-3601-73-highlight"
+                },
+                "description": "Place du Souvenir Français, 35000 Rennes, France",
+                "stroke": "#4186f0",
+                "stroke-opacity": 1,
+                "stroke-width": 3.601,
+                "fill": "#4186f0",
+                "fill-opacity": 0.28627450980392155
+            }
+        }
+    ]
+}

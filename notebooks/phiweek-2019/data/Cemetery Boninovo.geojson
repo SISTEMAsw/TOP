@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.0954802,
+                            42.6463103,
+                            0
+                        ],
+                        [
+                            18.0963224,
+                            42.6460499,
+                            0
+                        ],
+                        [
+                            18.0965906,
+                            42.6463182,
+                            0
+                        ],
+                        [
+                            18.0977118,
+                            42.6457894,
+                            0
+                        ],
+                        [
+                            18.0983448,
+                            42.6456869,
+                            0
+                        ],
+                        [
+                            18.0983073,
+                            42.6459433,
+                            0
+                        ],
+                        [
+                            18.0976743,
+                            42.6468824,
+                            0
+                        ],
+                        [
+                            18.0971324,
+                            42.6471784,
+                            0
+                        ],
+                        [
+                            18.0960327,
+                            42.6472809,
+                            0
+                        ],
+                        [
+                            18.0956626,
+                            42.6472375,
+                            0
+                        ],
+                        [
+                            18.0952334,
+                            42.6465628,
+                            0
+                        ],
+                        [
+                            18.0954802,
+                            42.6463103,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery Boninovo",
+                "styleUrl": "#poly-009D57-3401-99",
+                "styleHash": "4da15eaf",
+                "styleMapHash": {
+                    "normal": "#poly-009D57-3401-99-normal",
+                    "highlight": "#poly-009D57-3401-99-highlight"
+                },
+                "description": "Između tri crkve 1, Dubrovnik, Croatia",
+                "stroke": "#009d57",
+                "stroke-opacity": 1,
+                "stroke-width": 3.401,
+                "fill": "#009d57",
+                "fill-opacity": 0.38823529411764707
+            }
+        }
+    ]
+}

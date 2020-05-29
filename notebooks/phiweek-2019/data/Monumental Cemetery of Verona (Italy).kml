@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Monumental Cemetery of Verona (Italy)</name>
+    <description><![CDATA[Piazzale del Cimitero, 37133, Verona <br>Phone: +39 045 802 9911 <br>E-mail: infoagec@agec.it <br>Website: https://www.agec.it/cimiteromonumentale/<br>]]></description>
+    <Style id="poly-097138-2301-94-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2301-94-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.4515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5e387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2301-94">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2301-94-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2301-94-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Monumental Cemetery of Verona, Italy</name>
+        <description>Piazzale del Cimitero, 37133, Verona </description>
+        <styleUrl>#poly-097138-2301-94</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                11.0043943,45.4352384,0
+                11.0032892,45.4345834,0
+                11.0030424,45.4343048,0
+                11.0029781,45.4340413,0
+                11.0031175,45.4336875,0
+                11.0032463,45.4332884,0
+                11.0025274,45.4316547,0
+                11.0054242,45.430962,0
+                11.0062825,45.430962,0
+                11.0069906,45.4312707,0
+                11.0075163,45.4317149,0
+                11.009072,45.4333411,0
+                11.0059714,45.4351556,0
+                11.0055422,45.4353137,0
+                11.0050809,45.4352986,0
+                11.0043943,45.4352384,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

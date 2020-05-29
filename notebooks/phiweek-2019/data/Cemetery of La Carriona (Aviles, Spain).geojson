@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.938583,
+                            43.541922,
+                            0
+                        ],
+                        [
+                            -5.938701,
+                            43.54167,
+                            0
+                        ],
+                        [
+                            -5.938653,
+                            43.541016,
+                            0
+                        ],
+                        [
+                            -5.936641,
+                            43.540293,
+                            0
+                        ],
+                        [
+                            -5.936368,
+                            43.540806,
+                            0
+                        ],
+                        [
+                            -5.936207,
+                            43.540771,
+                            0
+                        ],
+                        [
+                            -5.935703,
+                            43.541534,
+                            0
+                        ],
+                        [
+                            -5.936201,
+                            43.541689,
+                            0
+                        ],
+                        [
+                            -5.935987,
+                            43.541965,
+                            0
+                        ],
+                        [
+                            -5.937999,
+                            43.542665,
+                            0
+                        ],
+                        [
+                            -5.938583,
+                            43.541922,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of La Carriona (Aviles, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.937365,
+                    43.541635,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of La Carriona (Aviles, Spain)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Cemetery of La Carriona was inaugurated in 1890 and designed by the municipal architect Ricardo Marcos Bausá, who later on worked on the project of Ciudad Lineal in Madrid (Spain).<br><br>More about Cemetery of La Carriona"
+            }
+        }
+    ]
+}

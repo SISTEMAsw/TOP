@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.18454,
+                            59.241505,
+                            0
+                        ],
+                        [
+                            18.179154,
+                            59.239728,
+                            0
+                        ],
+                        [
+                            18.178854,
+                            59.238696,
+                            0
+                        ],
+                        [
+                            18.178811,
+                            59.237939,
+                            0
+                        ],
+                        [
+                            18.182158,
+                            59.235294,
+                            0
+                        ],
+                        [
+                            18.183961,
+                            59.23514,
+                            0
+                        ],
+                        [
+                            18.184304,
+                            59.234284,
+                            0
+                        ],
+                        [
+                            18.184433,
+                            59.233998,
+                            0
+                        ],
+                        [
+                            18.190441,
+                            59.235206,
+                            0
+                        ],
+                        [
+                            18.188295,
+                            59.238081,
+                            0
+                        ],
+                        [
+                            18.185892,
+                            59.239771,
+                            0
+                        ],
+                        [
+                            18.18454,
+                            59.241505,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Strandkyrkogården (Stockholm, Sweden)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182845,
+                    59.23874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Strandkyrkogården (Stockholm, Sweden)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Strandkyrkogården (Shore Cemetery) was inaugurated in 1996, six miles south-east of the Stockholm city centre. It is close to a lake."
+            }
+        }
+    ]
+}

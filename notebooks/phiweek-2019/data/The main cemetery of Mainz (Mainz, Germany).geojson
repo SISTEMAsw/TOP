@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.245987,
+                            49.992015,
+                            0
+                        ],
+                        [
+                            8.251673,
+                            49.991836,
+                            0
+                        ],
+                        [
+                            8.251544,
+                            49.992305,
+                            0
+                        ],
+                        [
+                            8.252681,
+                            49.997188,
+                            0
+                        ],
+                        [
+                            8.249334,
+                            49.997092,
+                            0
+                        ],
+                        [
+                            8.247231,
+                            49.996692,
+                            0
+                        ],
+                        [
+                            8.24721,
+                            49.995878,
+                            0
+                        ],
+                        [
+                            8.245987,
+                            49.992015,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "The main cemetery of Mainz",
+                "styleUrl": "#poly-99FF99-3000-115",
+                "styleHash": "3e25c956",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-normal",
+                    "highlight": "#poly-99FF99-3000-115-highlight"
+                },
+                "description": "<img src=\"https://lh4.googleusercontent.com/proxy/fYshxOZEf4XZ9eE7ZsRq8BBkB_xN6lbbMKR3XSR0IxpIbttJNamc3rkRzFNW5xIOofIpThZS1365-aekFLhHtCy5sI4ZGVClhMy02Cd_GxLw-1RxNDnQmUSIRiMh-IjpwwJ0LbnLRA7Ic2fCNVu7avDeKCjw36GJ0rDRevbcxMPrQ_UH4E1dzsCGQh9glWCboxd3fecY7wPZ0YJ4uR3DYabUfXfxO4FnnHnSxJoa2HWy\" height=\"200\" width=\"auto\" /><br><br>The main cemetery of Mainz was founded 202 years ago, yet its roots can be found in pre-roman times.",
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275,
+                "gx_media_links": "https://lh4.googleusercontent.com/proxy/fYshxOZEf4XZ9eE7ZsRq8BBkB_xN6lbbMKR3XSR0IxpIbttJNamc3rkRzFNW5xIOofIpThZS1365-aekFLhHtCy5sI4ZGVClhMy02Cd_GxLw-1RxNDnQmUSIRiMh-IjpwwJ0LbnLRA7Ic2fCNVu7avDeKCjw36GJ0rDRevbcxMPrQ_UH4E1dzsCGQh9glWCboxd3fecY7wPZ0YJ4uR3DYabUfXfxO4FnnHnSxJoa2HWy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24966,
+                    49.994553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Main Cemetery of Mainz",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            23.737246,
+                            37.960424,
+                            0
+                        ],
+                        [
+                            23.741323,
+                            37.962708,
+                            0
+                        ],
+                        [
+                            23.740829,
+                            37.963435,
+                            0
+                        ],
+                        [
+                            23.740185,
+                            37.96379,
+                            0
+                        ],
+                        [
+                            23.738877,
+                            37.964382,
+                            0
+                        ],
+                        [
+                            23.738533,
+                            37.965262,
+                            0
+                        ],
+                        [
+                            23.737804,
+                            37.965786,
+                            0
+                        ],
+                        [
+                            23.735958,
+                            37.965093,
+                            0
+                        ],
+                        [
+                            23.736044,
+                            37.964941,
+                            0
+                        ],
+                        [
+                            23.73437,
+                            37.964264,
+                            0
+                        ],
+                        [
+                            23.737246,
+                            37.960424,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "The cemetery of Athenes, A KOIMITIRIO ATHINON",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.737292,
+                    37.963621,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The cemetery of Athenes, A KOIMITIRIO ATHINON",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "The First Cemetery of Athens was founded around 1837, when Athens was also established as the capital city of the modern Greek state (1834). It spreads on the slope of the Ardittos hill, close to the Panathinaiko Stadium. The style of the cemetery can be traced to the Romantic period."
+            }
+        }
+    ]
+}

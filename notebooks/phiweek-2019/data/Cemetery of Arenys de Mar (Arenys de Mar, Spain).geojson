@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.546264,
+                    41.578158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Arenys de Mar (Arenys de Mar, Spain)",
+                "styleUrl": "#icon-503-DB4436-nodesc",
+                "styleHash": "220200e0",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-nodesc-normal",
+                    "highlight": "#icon-503-DB4436-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.545533,
+                            41.579394,
+                            0
+                        ],
+                        [
+                            2.545576,
+                            41.579024,
+                            0
+                        ],
+                        [
+                            2.545897,
+                            41.577732,
+                            0
+                        ],
+                        [
+                            2.546209,
+                            41.57693,
+                            0
+                        ],
+                        [
+                            2.546691,
+                            41.577082,
+                            0
+                        ],
+                        [
+                            2.546316,
+                            41.579081,
+                            0
+                        ],
+                        [
+                            2.545533,
+                            41.579394,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Arenys de Mar (Arenys de Mar, Spain)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.8745691,
+                            53.723288,
+                            0
+                        ],
+                        [
+                            -1.8746817,
+                            53.7223993,
+                            0
+                        ],
+                        [
+                            -1.8744028,
+                            53.7223993,
+                            0
+                        ],
+                        [
+                            -1.8743974,
+                            53.7223009,
+                            0
+                        ],
+                        [
+                            -1.8729866,
+                            53.7223104,
+                            0
+                        ],
+                        [
+                            -1.8728256,
+                            53.7234245,
+                            0
+                        ],
+                        [
+                            -1.8745691,
+                            53.723288,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Lister Lane Cemetery\n",
+                "styleUrl": "#poly-3F5BA9-2201-112",
+                "styleHash": "-6f0b0e58",
+                "styleMapHash": {
+                    "normal": "#poly-3F5BA9-2201-112-normal",
+                    "highlight": "#poly-3F5BA9-2201-112-highlight"
+                },
+                "description": "Halifax, United Kingdom",
+                "stroke": "#3f5ba9",
+                "stroke-opacity": 1,
+                "stroke-width": 2.201,
+                "fill": "#3f5ba9",
+                "fill-opacity": 0.4392156862745098
+            }
+        }
+    ]
+}

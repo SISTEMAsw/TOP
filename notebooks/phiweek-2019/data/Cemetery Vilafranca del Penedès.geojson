@@ -1,0 +1,136 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.700585,
+                    41.35297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cemetery Vilafranca del Penedès ",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Vilafranca del Penedès <br>Spain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.700117,
+                            41.352982,
+                            0
+                        ],
+                        [
+                            1.699887,
+                            41.352809,
+                            0
+                        ],
+                        [
+                            1.699463,
+                            41.352612,
+                            0
+                        ],
+                        [
+                            1.699452,
+                            41.352475,
+                            0
+                        ],
+                        [
+                            1.699854,
+                            41.351895,
+                            0
+                        ],
+                        [
+                            1.699833,
+                            41.351653,
+                            0
+                        ],
+                        [
+                            1.700724,
+                            41.351545,
+                            0
+                        ],
+                        [
+                            1.700981,
+                            41.352861,
+                            0
+                        ],
+                        [
+                            1.700917,
+                            41.352882,
+                            0
+                        ],
+                        [
+                            1.700927,
+                            41.35295,
+                            0
+                        ],
+                        [
+                            1.700884,
+                            41.353075,
+                            0
+                        ],
+                        [
+                            1.700836,
+                            41.353155,
+                            0
+                        ],
+                        [
+                            1.700702,
+                            41.353216,
+                            0
+                        ],
+                        [
+                            1.700595,
+                            41.353228,
+                            0
+                        ],
+                        [
+                            1.700407,
+                            41.35318,
+                            0
+                        ],
+                        [
+                            1.700294,
+                            41.353091,
+                            0
+                        ],
+                        [
+                            1.700117,
+                            41.352982,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery Vilafranca del Penedès ",
+                "styleUrl": "#poly-0000FF-3000-115",
+                "styleHash": "723d4f16",
+                "styleMapHash": {
+                    "normal": "#poly-0000FF-3000-115-normal",
+                    "highlight": "#poly-0000FF-3000-115-highlight"
+                },
+                "description": "Vilafranca del Penedès <br>Spain",
+                "stroke": "#0000ff",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#0000ff",
+                "fill-opacity": 0.45098039215686275
+            }
+        }
+    ]
+}

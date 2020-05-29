@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Highgate Cemetery (London, United Kingdom)</name>
+    <Style id="icon-961-62AF44-nodesc-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-961-62AF44-nodesc-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-961-62AF44-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-961-62AF44-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-961-62AF44-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-62AF44-4000-76-nodesc-normal">
+      <LineStyle>
+        <color>ff44af62</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c44af62</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-62AF44-4000-76-nodesc-highlight">
+      <LineStyle>
+        <color>ff44af62</color>
+        <width>6</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c44af62</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-62AF44-4000-76-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-62AF44-4000-76-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-62AF44-4000-76-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Highgate Cemetery (London, United Kingdom)</name>
+      <styleUrl>#icon-961-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.146727561950684,51.5670270868131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highgate Cemetery (London, United Kingdom)</name>
+      <styleUrl>#poly-62AF44-4000-76-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -0.150954723358154,51.5682008210044,0
+              -0.149495601654053,51.5659333526799,0
+              -0.146706104278564,51.5663868553914,0
+              -0.146427154541016,51.5645861561835,0
+              -0.146341323852539,51.5635057024279,0
+              -0.145483016967773,51.5634790242326,0
+              -0.144603252410889,51.5640392630467,0
+              -0.14307975769043,51.5646261724962,0
+              -0.142736434936523,51.5652130743701,0
+              -0.143594741821289,51.5665602522917,0
+              -0.145504474639893,51.5670537629266,0
+              -0.146276950836182,51.5672138192795,0
+              -0.147199630737305,51.5684809121855,0
+              -0.147757530212402,51.5691077766712,0
+              -0.150954723358154,51.5682008210044,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

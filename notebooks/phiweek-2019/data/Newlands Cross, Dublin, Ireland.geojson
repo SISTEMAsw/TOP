@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.380927,
+                            53.312003,
+                            0
+                        ],
+                        [
+                            -6.38105,
+                            53.310673,
+                            0
+                        ],
+                        [
+                            -6.379784,
+                            53.310718,
+                            0
+                        ],
+                        [
+                            -6.379076,
+                            53.310868,
+                            0
+                        ],
+                        [
+                            -6.378754,
+                            53.310878,
+                            0
+                        ],
+                        [
+                            -6.378561,
+                            53.311054,
+                            0
+                        ],
+                        [
+                            -6.37781,
+                            53.310939,
+                            0
+                        ],
+                        [
+                            -6.37633,
+                            53.310974,
+                            0
+                        ],
+                        [
+                            -6.376051,
+                            53.310698,
+                            0
+                        ],
+                        [
+                            -6.375278,
+                            53.311295,
+                            0
+                        ],
+                        [
+                            -6.376126,
+                            53.311679,
+                            0
+                        ],
+                        [
+                            -6.378776,
+                            53.312275,
+                            0
+                        ],
+                        [
+                            -6.378947,
+                            53.312006,
+                            0
+                        ],
+                        [
+                            -6.380927,
+                            53.312003,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Newlands Cross, Dublin, Ireland",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.378357,
+                    53.311532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newlands Cross, Dublin, Ireland",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "Established in the year 2000, the Cemetery at Newlands Cross fulfils the burial and cremation requirements for west Dublin into the new millenium. The new Cemetery forms part of an integrated open space development comprising of 140 acres of parkland, playing pitches, an ornamental lake, and wildflower meadows. The central theme of the landscape composition is the integration of the functions of the cemetery into the activities of the park and the wider community <...more (http://significant-cemeteries.blogspot.com/2011/11/newlands-cross-dublin-ireland.html)>"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.959192,
+                            50.042248,
+                            0
+                        ],
+                        [
+                            19.95832,
+                            50.04154,
+                            0
+                        ],
+                        [
+                            19.95891,
+                            50.0416,
+                            0
+                        ],
+                        [
+                            19.95995,
+                            50.04206,
+                            0
+                        ],
+                        [
+                            19.959632,
+                            50.042248,
+                            0
+                        ],
+                        [
+                            19.959192,
+                            50.042248,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "The old Cemetery of Podgorze",
+                "styleUrl": "#poly-009900-3000-115",
+                "styleHash": "5bb45176",
+                "styleMapHash": {
+                    "normal": "#poly-009900-3000-115-normal",
+                    "highlight": "#poly-009900-3000-115-highlight"
+                },
+                "description": "For over a hundred years it was the main necropolis of the Free Royal City of Podgorze (which has become part of Krakow in 1915). It is the oldest municipal cemetery in Krakow.<br><br>More information (http://www.significantcemeteries.org/2011/11/old-cemetery-of-podgorze-cmentarz.html)",
+                "stroke": "#009900",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#009900",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.959331,
+                    50.041938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The old Cemetery of Podgorze",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "For over a hundred years it was the main necropolis of the Free Royal City of Podgorze (which has become part of Krakow in 1915). It is the oldest municipal cemetery in Krakow.<br><br>More information (http://www.significantcemeteries.org/2011/11/old-cemetery-of-podgorze-cmentarz.html)"
+            }
+        }
+    ]
+}

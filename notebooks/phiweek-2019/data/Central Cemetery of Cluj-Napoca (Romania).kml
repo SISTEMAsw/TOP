@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Central Cemetery of Cluj-Napoca (Romania)</name>
+    <description>The central Cemetery of Cluj-Napoca was established in the 16th century. Today it is among the largest cemeteries in South - Eastern Europe and a true outdoor museum.</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-4186F0-2401-81-normal">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>2.401</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>51f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-4186F0-2401-81-highlight">
+      <LineStyle>
+        <color>fff08641</color>
+        <width>3.6015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>51f08641</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-4186F0-2401-81">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-4186F0-2401-81-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-4186F0-2401-81-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Central Cemetery of Cluj-Napoca (Romania)</name>
+      <Placemark>
+        <name>Central Cemetery of Cluj-Napoca (Romania)
+</name>
+        <description><![CDATA[Avram Iancu Street 24-26, 400083 Cluj-Napoca,<br>Romania]]></description>
+        <styleUrl>#poly-4186F0-2401-81</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                23.5958004,46.7667791,0
+                23.5914016,46.7658531,0
+                23.5914874,46.765618,0
+                23.5910153,46.7655298,0
+                23.5910153,46.7649712,0
+                23.5914445,46.7638835,0
+                23.5910153,46.7638247,0
+                23.5917234,46.7621344,0
+                23.5924745,46.7622961,0
+                23.5926461,46.7613259,0
+                23.5929465,46.7597972,0
+                23.5937834,46.7587094,0
+                23.5941482,46.757798,0
+                23.5946202,46.7578127,0
+                23.5959291,46.7582978,0
+                23.5977101,46.7565925,0
+                23.5979033,46.7568865,0
+                23.5977745,46.7573863,0
+                23.597517,46.7579744,0
+                23.5985041,46.7587241,0
+                23.5943413,46.7613994,0
+                23.5946417,46.7616934,0
+                23.59447,46.7617963,0
+                23.5938907,46.761811,0
+                23.5947704,46.7631927,0
+                23.5948133,46.7647361,0
+                23.5951138,46.7654857,0
+                23.595264,46.7655739,0
+                23.5961652,46.7652946,0
+                23.5962296,46.7656326,0
+                23.5958004,46.7667791,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Central Cemetery of Cluj-Napoca (Romania)</name>
+        <description><![CDATA[Avram Iancu Street 24-26, 400083 Cluj-Napoca, <br>Romania]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.5929894,46.7644715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

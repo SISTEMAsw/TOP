@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.415337,
+                            50.91891,
+                            0
+                        ],
+                        [
+                            -1.414104,
+                            50.919329,
+                            0
+                        ],
+                        [
+                            -1.412784,
+                            50.920236,
+                            0
+                        ],
+                        [
+                            -1.412258,
+                            50.920641,
+                            0
+                        ],
+                        [
+                            -1.411303,
+                            50.921108,
+                            0
+                        ],
+                        [
+                            -1.410155,
+                            50.922691,
+                            0
+                        ],
+                        [
+                            -1.410681,
+                            50.923414,
+                            0
+                        ],
+                        [
+                            -1.411765,
+                            50.923428,
+                            0
+                        ],
+                        [
+                            -1.412269,
+                            50.92334,
+                            0
+                        ],
+                        [
+                            -1.414865,
+                            50.923739,
+                            0
+                        ],
+                        [
+                            -1.414779,
+                            50.922684,
+                            0
+                        ],
+                        [
+                            -1.414812,
+                            50.922143,
+                            0
+                        ],
+                        [
+                            -1.415101,
+                            50.921345,
+                            0
+                        ],
+                        [
+                            -1.415327,
+                            50.919803,
+                            0
+                        ],
+                        [
+                            -1.415337,
+                            50.91891,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Southampton Old Cemetery (Southampton, United Kingdom)",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.413567,
+                    50.921893,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southampton Old Cemetery (Southampton, United Kingdom)",
+                "styleUrl": "#icon-503-DB4436",
+                "styleHash": "-716a1277",
+                "styleMapHash": {
+                    "normal": "#icon-503-DB4436-normal",
+                    "highlight": "#icon-503-DB4436-highlight"
+                },
+                "description": "A Victorian cemetery in the ‘garden’ style pioneered by J C Loudon, opened in 1846. <br>Initially only 10 acres (4 hectares) but later expanded to 27 acres (11 hectares).<br>The layout was designed and implemented by local nurseryman W H Rogers."
+            }
+        }
+    ]
+}

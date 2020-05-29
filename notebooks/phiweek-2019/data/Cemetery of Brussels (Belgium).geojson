@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.4223062,
+                            50.8657251,
+                            0
+                        ],
+                        [
+                            4.4219522,
+                            50.8664767,
+                            0
+                        ],
+                        [
+                            4.4191198,
+                            50.8692664,
+                            0
+                        ],
+                        [
+                            4.4166307,
+                            50.8712706,
+                            0
+                        ],
+                        [
+                            4.414957,
+                            50.8718935,
+                            0
+                        ],
+                        [
+                            4.4101397,
+                            50.8701263,
+                            0
+                        ],
+                        [
+                            4.4123713,
+                            50.8677159,
+                            0
+                        ],
+                        [
+                            4.4162981,
+                            50.8644114,
+                            0
+                        ],
+                        [
+                            4.4176499,
+                            50.8641,
+                            0
+                        ],
+                        [
+                            4.4223062,
+                            50.8657251,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Cemetery of Brussels",
+                "styleUrl": "#poly-01579B-2801-133",
+                "styleHash": "ff62c9f",
+                "styleMapHash": {
+                    "normal": "#poly-01579B-2801-133-normal",
+                    "highlight": "#poly-01579B-2801-133-highlight"
+                },
+                "description": "Avenue du Cimetière de Bruxelles 159<br>1140 Evere (Brussels), Belgium",
+                "stroke": "#01579b",
+                "stroke-opacity": 1,
+                "stroke-width": 2.801,
+                "fill": "#01579b",
+                "fill-opacity": 0.5215686274509804
+            }
+        }
+    ]
+}

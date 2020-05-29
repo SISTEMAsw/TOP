@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            14.527227,
+                            46.07265,
+                            0
+                        ],
+                        [
+                            14.529651,
+                            46.071816,
+                            0
+                        ],
+                        [
+                            14.527892,
+                            46.068586,
+                            0
+                        ],
+                        [
+                            14.528557,
+                            46.068124,
+                            0
+                        ],
+                        [
+                            14.529437,
+                            46.068467,
+                            0
+                        ],
+                        [
+                            14.530488,
+                            46.067723,
+                            0
+                        ],
+                        [
+                            14.532248,
+                            46.068154,
+                            0
+                        ],
+                        [
+                            14.537011,
+                            46.073484,
+                            0
+                        ],
+                        [
+                            14.532698,
+                            46.075166,
+                            0
+                        ],
+                        [
+                            14.532033,
+                            46.075032,
+                            0
+                        ],
+                        [
+                            14.530703,
+                            46.075523,
+                            0
+                        ],
+                        [
+                            14.529823,
+                            46.0746,
+                            0
+                        ],
+                        [
+                            14.528493,
+                            46.074972,
+                            0
+                        ],
+                        [
+                            14.527742,
+                            46.074064,
+                            0
+                        ],
+                        [
+                            14.527227,
+                            46.07265,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Žale Cemetery",
+                "styleUrl": "#poly-99FF99-3000-115-nodesc",
+                "styleHash": "6853d54d",
+                "styleMapHash": {
+                    "normal": "#poly-99FF99-3000-115-nodesc-normal",
+                    "highlight": "#poly-99FF99-3000-115-nodesc-highlight"
+                },
+                "stroke": "#99ff99",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "fill": "#99ff99",
+                "fill-opacity": 0.45098039215686275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.531801,
+                    46.071846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Žale Cemetery (Ljubljana, Slovenia)",
+                "styleUrl": "#icon-22",
+                "styleHash": "72e693d3",
+                "styleMapHash": {
+                    "normal": "#icon-22-normal",
+                    "highlight": "#icon-22-highlight"
+                },
+                "description": "Zale, which is an old Slavic word for a cemetery, is the main cemetery of the city of Ljubljana. It was founded in 1906 and is still in use today. In the years 1938/40 its design was made by architect Joze Plecnik (1872-1957), who was undoubtedly the most important figure in the history of Slovene architecture."
+            }
+        }
+    ]
+}
