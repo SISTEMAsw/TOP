@@ -1,0 +1,79 @@
+footer{
+    background-color: #0a3138;
+    height: 90px;
+    width: 100%;
+    position: absolute;  bottom: 0;  width: 100%;
+
+}
+
+footer #footerbar{
+    width: 260px;
+    height: 90px;
+    margin: 0 auto;
+    margin-top: -16px;
+
+}
+
+
+#footerbar .logo{
+    float:left;
+    height: 90px;
+    width: 70px;
+    padding-top: 10px;
+}
+
+#footerbar .logo h3{
+    color: white;
+    font-family: topFont;
+}
+
+#footerbar .navigationFooter{
+    float:left;
+    height: 90px;
+    width: 70px;
+    margin-left: 40px;
+    vertical-align: middle;
+    padding-top: 3px;
+}
+
+#footerbar .navigationFooter p{
+    color: white;
+    font-size: 0.85em;
+    margin-bottom: -3px;
+}
+
+#footerbar .navigationFooter a{
+    color: white;
+    font-size: 0.85em;
+    margin-bottom: -2px;
+}
+
+#footerbar .FollowUs h5{
+    color: white;
+    font-size: 0.9em;
+    font-weight:bold
+}
+
+#footerbar .FollowUs hr{
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+#footerbar .FollowUs{
+    float:left;
+    height: 90px;
+    width: 105px;
+    padding-top: 10px;
+    display: none;
+}
+#footerbar .FollowUs .FollowUsLogos
+{
+    padding-left: 3px;
+}
+
+#footerbar .FollowUs .FollowUsLogos img
+{
+    width: 20px;
+    height: 20px;
+    float:left;
+}

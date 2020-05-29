@@ -1,0 +1,68 @@
+#loginSection
+{
+    /*height:560px;*/
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    background-image: url('/static/img/cover.png');
+    background-size: cover;
+}
+
+#loginSection .container
+{
+    position: relative;
+    top: 150px;
+}
+
+#account footer{
+    position: absolute;
+    bottom: 0;
+
+}
+
+#loginDivContainer{
+    width: 400px;
+    border-radius: 10px;
+    background-color: white;
+    margin:0 auto;
+    margin-top: -55px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.loginForm{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.loginForm input{
+    margin-bottom: -7px;
+}
+
+.loginForm .help-block{
+    margin-bottom: -10px;
+    font-size: 0.95em;
+}
+
+.loginForm
+
+.signupAndReset{
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    font-size: 0.85em;
+    text-align: center;
+}
+.LoggedIn
+{
+    font-size: 0.85em;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+

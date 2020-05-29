@@ -1,0 +1,7 @@
+{% load i18n %}
+{% block main %}
+<p>{% trans "Hey there, your account has been activated." %}</p>
+<p>{% trans "Please use the link below to log in." %}</p>
+<p>{% trans "You are welcome to use the top-platform, but be aware that it is still in testing mode then some issue might occur. In case please notify us via: top-platform@sistema.at" %}</p>
+<p><a href="http://{{ request.get_host }}{% url "login" %}">http://{{ request.get_host }}{% url "login" %}</a></p>
+{% endblock %}

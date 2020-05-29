@@ -1,0 +1,26 @@
+#page-container {  position: relative;  min-height: 100vh; margin-top: -50px;}
+#content-wrap {  padding-bottom: 90px;    /* Footer height */}
+
+#portalWrapper
+{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    padding-top: 50px;
+    height: 100%;
+}
+
+/*#portalBody footer
+{
+    position: absolute;
+    bottom: 0;
+}*/
+
+#mainContainer{
+    float: right;
+    width: -webkit-calc(100% - 200px);
+    width:    -moz-calc(100% - 200px);
+    width:         calc(100% - 200px);
+}

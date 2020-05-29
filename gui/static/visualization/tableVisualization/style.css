@@ -1,0 +1,101 @@
+#dataContainer {
+
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 550px;
+    float: left;
+}
+
+#DataTable{
+  width: 550px;
+
+}
+
+#DataTable .dsRow:nth-child(even){background-color: #f2f2f2;}
+
+#DataTable .dsRow:hover {background-color: #ddd;}
+
+
+#dsHeader{
+  text-align: left;
+  background-color: #0a3138;
+  color: white;
+  font-weight: bold;
+  border: 1px solid #0a3138;
+}
+
+.headerRow{
+  background-color: white;
+}
+
+.dsRow, .headerRow {
+    position:relative;
+    height: 30px;
+    width: 550px;
+    border: 1px solid #ddd;
+    border-top: none;
+    padding-left: 8px;
+    padding-top:4px;
+}
+
+.dsRow p, .headerRow p{
+  padding:8px;
+}
+
+.dsName{
+  width: 300px;
+  float:left;
+  height: 27px;
+}
+
+.dsStart, .dsEnd{
+  width: 120px;
+  height: 27px;
+}
+
+.dsStart{
+    float:left;
+}
+
+.dsEnd{
+    float:left;
+    text-align:center;
+}
+.overlay{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 350px;
+    box-shadow: 0px 3px 6px #B2B2B2;
+    display: inline-block;
+    border: 2px solid #0a3138;
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #0a3138;
+    border-radius: .4em;
+    display:none;
+    color: white;
+    z-index: 10;
+}
+
+.overlay:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 15px solid transparent;
+    border-bottom-color: #0a3138;
+    border-top: 0;
+    border-left: 0;
+    margin-left: -165px;
+    margin-top: -15px;
+}
+
+
+
+/*.overlay{
+    display:none;
+    z-index: 1;
+}*/

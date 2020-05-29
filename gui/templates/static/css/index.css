@@ -1,0 +1,166 @@
+#page-container {  position: relative;  min-height: 100vh;}
+#content-wrap {  padding-bottom: 90px;    /* Footer height */}
+
+#section1
+{
+    height:400px;
+    background-image: url('/static/img/cover.png');
+    background-size: cover;
+}
+
+#section1 img
+{
+    height:500px;
+}
+
+#section1 #titleDiv
+{
+    /*width: 550px;*/
+    color: white;
+    padding-top: 50px;
+    font-family: topFont;
+ 
+}
+
+#section1 #titleDiv hr
+{
+    width: 100%;
+    float: left;
+}
+
+#section2
+{
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#section2 .part
+{
+    height: 490px;
+    width: 200px;
+    float: left;
+    margin: 50px;
+    
+}
+
+#section2 .part .imageIconTextSmall
+{
+   padding-top: 10px;     
+}
+
+#section2 .part h3
+{
+   text-align: center;
+   color: #0a3138;  
+   padding-bottom: 10px;
+   font-family: topFont;  
+   font-size: 1.3em;
+}
+
+
+#section2 .part p
+{
+   text-align: center;    
+}
+
+
+.centerDiv
+{
+    display: flex;
+    margin: 0 auto;
+}
+
+.centerDiv > div {
+    flex: auto; /*grow*/
+  }
+
+.imageIconSmall
+{
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background-color: #0a3138;
+    border-radius: 100px;
+
+}
+
+#part1 img, #part2 img, #part3 img
+{
+    margin: 0 auto;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#section3
+{
+    background-color: #0a3138;
+    height: 1300px;
+}
+
+.headingSection3
+{
+    text-align:center;
+}
+
+
+#section3 h3
+{
+    color: white;
+    font-family: topFont;  
+}
+
+#section3 h4
+{
+    color: white;
+    text-align: center;
+}
+
+#dailyImages
+{
+    margin: 0 auto;
+    display: flex;
+
+}
+
+.containerDailyImage{
+    float: left;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.HeaderDailyImages{
+    height: 45px;
+    width: 295px;
+    margin: 0 auto;
+    
+}
+
+.dailyImageBox{
+    height: 150px;
+    width: 295px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#dailyImages > div {
+    flex: auto; /*grow*/
+  }
+
+#middleContainerSecion3
+{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+#section4 .container
+{
+    padding-top: 50px;
+    margin: 0 auto;
+}
+
+#datasetcontainer{
+    margin: 0 auto;
+    padding-bottom: 50px;
+    min-height: 600px;
+}

@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% include 'right_menu.html' %}
+{% load i18n %}
+
+{% block extra_head %}
+{% load static %}
+<link rel="stylesheet" href="{% static "css/index.css" %}">
+<link rel="stylesheet" href="{% static "css/datasetsIndex.css" %}">
+
+{% endblock %}
+
+
+{% block main %}
+
+
+<div id="section1">
+    <div id="titleDiv" class="container">
+        <h1> TOP </h1>
+        <h4> Technology and atmospheric mission platform - OPerations </h4>
+        <hr />
+    </div>
+</div>
+
+
+<div class="container">
+    <div id="mainContainer">
+        <div id="section2">
+            <div class="centerDiv">
+                <div id="part1" class="part">
+                    <div class="imageIconSmall">
+                        <img src="{% static "img/icons/icon1.png" %}">
+                    </div>
+                    <div class="imageIconTextSmall">
+                        <h3>Project based work </h3>
+                        <p>
+                        TOP offers the user or team a collaborative way of data exploitation - in addition to standard data collections, TOP facilitates data upload, processing performance and results comparison & download. Moreover, TOP enables the provision of specific services for your project's duration in a cost- and presentation-effective way.
+                        </p>
+                    </div>
+                </div>
+
+                <div id="part2" class="part">
+                    <div class="imageIconSmall">
+                        <img src="{% static "img/icons/icon2.png" %}">
+                    </div>
+                    <div class="imageIconTextSmall">
+                        <h3>Data triangle</h3>
+                        <p>
+                            TOP is the first operational platform implementing the data triangle and therefore generating an atmospheric multi-source data cube. This enables users to the exploitation of satellite, model & in-situ data simultaneously and on-the-fly.
+                        </p>
+                    </div>
+                </div>
+
+                <div id="part3" class="part">
+                    <div class="imageIconSmall">
+                        <img src="{% static "img/icons/icon3.png" %}">
+                    </div>
+                    <div class="imageIconTextSmall">
+                        <h3>User interfaces</h3>
+                        <p>
+                            TOP has implemented various ways of accessing the platform and its data. A Graphical User Interface (GUI) addresses general visualization needs. Scientific applications are covered by the Jupyter Notebook interface, as well as the Command Line Interface (CLI).
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div id="section3">
+    <div class="container">
+        {% include "portal/datavis.html" %}
+    </div>
+
+
+<div id="section4">
+    <div class="container">
+        <div id="datasetcontainer">
+            {% include "portal/datasetBasic.html" %}
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}

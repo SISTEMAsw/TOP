@@ -1,0 +1,18 @@
+{% extends "portalOutline.html" %}
+{% load i18n %}
+
+{% block extra_head %}
+{% load static %}
+<link rel="stylesheet" href="{% static "css/datasets.css" %}">
+
+{% endblock %}
+
+
+{% block main %}
+<div class="datasetWrapper">
+<h4> DATASETS </h4>
+<hr></hr>
+
+{% include "datasetBasic.html" %}
+</div>
+{% endblock %}

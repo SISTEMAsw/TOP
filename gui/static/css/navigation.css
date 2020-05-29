@@ -1,0 +1,55 @@
+@font-face {
+    font-family: topFont;
+    src: url('/static/fonts/arkitech.ttf');
+  }
+
+  @font-face {
+    font-family: topFont;
+    src: url('/static/fonts/arkitech_bold.ttf');
+    font-weight: bold;
+  }
+
+
+.navbar
+{
+    background:rgba(10,49,56,0.9);
+    border-bottom:none;
+}
+
+.navbar .navbar-brand
+{
+    color: white;
+    font-family: topFont;
+}
+
+#navigation li a:link
+{ 
+    color: white;
+}
+
+#navigation li a:visited
+{ 
+    color: white;
+}
+#navigation li:hover
+{ 
+    background-color: rgba(7, 62, 71, 0.9)
+}
+
+#navigation li a:hover
+{ 
+    color: white;
+}
+
+#navigation li a:active
+{ 
+    color: #0a3138;
+}
+#navigation .active a:link
+{ 
+    color: #0a3138;
+}
+#navigation .active a:visited
+{ 
+    color: #0a3138;
+}

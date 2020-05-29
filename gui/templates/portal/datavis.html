@@ -1,0 +1,50 @@
+{% load pages_tags mezzanine_tags i18n staticfiles %}
+
+<script type="text/javascript" src="{% static "visualization/plotVisualization/addDatetoImages.js" %}"></script>
+<div class="headingSection3"><h3>PM10 forecast for Vienna (Austria)</h3></div>
+<div style="height:760px;">
+    <div id="chartPlot" style=" margin-bottom: 15px; margin-top: 15px;"></div>
+<div class="headingSection3"><h3>NO2 over Vienna (Austria)</h3>
+
+<p style="color:red;margin-top:-10px;margin-bottom:-10px;">S5P is currently unavailable - it will be restored shortly</p>
+</div>
+    <div id="chartSP5Plot" style=" margin-bottom: 15px; margin-top: 15px;"></div>
+</div>
+
+<div class="headingSection3" id="section3Images">
+	<h3>NO2 over Austria</h3>
+	<p style="color:white;">NO2 tropospheric column weekly average over Austria</></div>
+    <div id="dailyImages">
+        <div class="containerDailyImage">
+            <div class="HeaderDailyImages">
+                <h4> <script> document.write(day3()); </script> - <script> document.write(day2()); </script> </h4>
+            </div>
+            <div class="dailyImageBox">
+                <img src="{{STATIC_URL}}visualization/downloadData/images/day_3.png" / >
+            </div>
+        </div>
+
+        <div class="containerDailyImage" id="middleContainerSecion3">
+            <div class="HeaderDailyImages">
+                <h4> <script> document.write(day2()); </script> - <script> document.write(day1()); </script> </h4>
+            </div>
+            <div class="dailyImageBox">
+                <img src="{{STATIC_URL}}visualization/downloadData/images/day_2.png" / >
+            </div>
+        </div>
+
+        <div class="containerDailyImage">
+            <div class="HeaderDailyImages">
+                <h4> <script> document.write(day1()); </script> - <script> document.write(today()); </script> </h4>
+            </div>
+            <div class="dailyImageBox">
+                <img src="{{STATIC_URL}}visualization/downloadData/images/day_1.png" / >
+            </div>
+        </div>
+    </div>
+    <img src="{{STATIC_URL}}visualization/downloadData/images/legend.png" id="dataLegend"/ >
+</div>
+<script type="text/javascript" src="{% static "js/apexcharts.js" %}"></script>
+<script type="text/javascript" src="{% static "visualization/plotVisualization/NO2overVienna.js" %}"></script>
+<script type="text/javascript" src="{% static "visualization/plotVisualization/forecast.js" %}"></script>
+<script type="text/javascript" src="{% static "visualization/plotVisualization/visualize.js" %}"></script>

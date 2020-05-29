@@ -1,0 +1,41 @@
+{% extends "portalOutline.html" %}
+{% load i18n %}
+
+{% block extra_head %}
+{% load static %}
+<link rel="stylesheet" href="{% static "css/home.css" %}">
+{% endblock %}
+
+
+{% block main %}
+<css id="portalHome">
+<h4> TOP </h4>
+<hr></hr>
+<p>TOP is a web-based platform offering users from the atmospheric sciences domain a Virtual Research Environment (VRE) to exploit Copernicus atmospheric and climate data products, such as COPERNICUS Sentinel-5 Precursor data and CAMS products. Deployed on the MUNDI DIAS, it is the first operational platform implementing the data triangle (EO, model and in-situ data) and hence creates an atmospheric multi-source data cube, stimulating a multidisciplinary scientific approach due to the availability of various collections.
+The keypoints of TOP are:</p>
+<ul>
+<li> Based on OGC-standardised (Open Geospatial Consortium) data discovery and access, multiple heterogeneous datasets can be explored simultaneously, without the need to have any knowledge of the original products. </li>
+<li> As (new) data available on the DIAS will be directly accessible through TOP, the time to collect and prepare data is omitted.  </li>
+<li> Local storage space and personal computer resources are preserved, since all data reside in the remote environment and the processing is performed remotely. </li>
+</ul>
+<p>TOP offers:</p>
+<ul>
+<li> A project-based approach</li>
+</ul>
+
+<p>Use TOP for your specific project in a collaborative way – Stop worrying about data preparation and sharing during your project duration! 
+In addition to existing data, TOP offers you to upload owned data, perform processing, compare and download results.
+</br>
+Use TOP for specific services – You are looking for a cost efficient and presentation effective way of presenting atmospheric products from multiple sources? This is the right place for you!</p>
+<ul>
+<li> Data triangle exploitation</li>
+</ul>
+
+<p>Explore and exploit satellite, model & in-situ data simultaneously and on-the-fly!</p>
+<ul>
+<li> User interfaces</li>
+</ul>
+
+<p>Whether you prefer the Command Line Interface, the Jupyter Notebook Interface or a Graphical User Interface, we got you covered!</p>
+
+{% endblock %}

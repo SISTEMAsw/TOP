@@ -1,0 +1,26 @@
+#accounts-logout
+{
+    display: none;
+}
+
+#portal-help
+{
+    display: none;
+}
+
+#portal
+{
+    display: none;
+}
+#portal-datasets
+{
+   display: none;
+}
+
+li[id$="-daveclient-"]{
+    display:none;
+}
+li[id$=".eu-"]{
+    display:none;
+}
+
