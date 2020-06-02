@@ -4,8 +4,8 @@
 DEBUG = True
 
 # Make these unique, and don't share it with anybody.
-SECRET_KEY = "d74$(-l&eewu6u4&wo)y5#b7xols20ra6b6cq*4%!#w42a$7j4"
-NEVERCACHE_KEY = "+x_q*pl#-nh9grczz(0s=$m)m73#zvvsip^uv0qr-*9kboeegj"
+SECRET_KEY = ""
+NEVERCACHE_KEY = ""
 
 DATABASES = {
     "default": {
@@ -14,7 +14,7 @@ DATABASES = {
         # DB name or path to database file if using sqlite3.
         "NAME": "",
         # Not used  sqlite3.
-        "USER": "postgres",
+        "USER": "",
         # Not used with sqlite3.
         "PASSWORD": "",
         # Set to empty string for localhost. Not used with sqlite3.
